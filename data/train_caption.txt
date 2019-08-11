@@ -117,11 +117,11 @@ train_1804	\lim  _ { x \rightarrow \frac { \pi  } { 2   }   +  9   }  \tan x =  
 train_151	x _ { i }   -   x _ { i  +  1   }   +  x _ { i  +  2   } 
 train_1463	\left (  x ^ { 3   }   -   x ^ { 2   }   -   x \right )  \left (  2   x  -   7   \right ) 
 train_1314	x ^ { 2   }   +  y ^ { 2   }  \lt 1  
-train_1350	2   ^ { n( n  -   1   )  } 
+train_1350	2   ^ { n ( n  -   1   )  } 
 train_866	\lim  _ { x \rightarrow \frac { \pi  } { 2   }   +  9   }  \tan x =   -   \infty
 train_336	\frac { \sin  B  +  \sin  C } { \cos B  +  \cos C } 
 train_923	\lim  _ { x \rightarrow \frac { \pi  } { 2   }   +  9   }  \tan x =   -   \infty
-train_1877	\frac { b -  a } { n } \leq\alpha
+train_1877	\frac { b -  a } { n } \leq \alpha
 train_687	\frac { \sin  \theta  +  \cos \theta  +  \tan \theta } { x  +  y  +  z } 
 train_383	a \left (  n \right )  =  \sum ^ { n }  _ { k =  1   }  \left (   -   1   \right )  ^ { n  -   k }  k ! 
 train_1173	\log _ { 2   }  8    +  \log _ { 3   }  9    +  \log _ { 4   }  1   6  
@@ -146,7 +146,7 @@ train_1122	\lim  _ { x \rightarrow \infty }  \int _ 9   ^ x e ^ {  -   y ^ 2   }
 train_403	\int \left (  2   ^ { x }   -   3   e ^ { x }  \right )  d x
 train_1528	x \times (  -   \infty ) 
 train_1448	\frac { 1   } { a }  F \left (  a x  +  b \right )   +  C
-train_1570	ac= 1  
+train_1570	a c = 1  
 train_390	\frac { 1   } { a }  F \left (  a x  +  b \right )   +  C
 train_1975	\frac { \sin  \theta  +  \cos \theta  +  \tan \theta } { x  +  y  +  z } 
 train_1403	\sqrt { b ^ { 2   }   -   4   a c } 
@@ -622,7 +622,7 @@ train_2166	( 4  7   \times 1  1  1   )   +  8  5   \geq 5  3  9  1
 train_605	\sin  x  -   \sin  y  -   \sin  \left (  x  -   y \right ) 
 train_1208	\frac { \sin  \theta  +  \cos \theta  +  \tan \theta } { x  +  y  +  z } 
 train_938	A =  \sqrt { a  +  \frac { 1   } { \sqrt { a  +  \frac { 1   } { \sqrt { a }  }  }  }  }   +  \sqrt { b } 
-train_439	ac= 1  
+train_439	a c = 1  
 train_1431	\frac { 2   \tan \alpha } { 1    -   \tan ^ { 2   }  \alpha } 
 train_939	[  \frac  2   3   x ^ { \frac  3   2   }  ]  _ 9   ^ 1  
 train_292	\tan z =  \frac { \sin  z } { \cos z } 
@@ -1501,7 +1501,7 @@ train_1594	\int \left (  2   ^ { x }   -   3   e ^ { x }  \right )  d x
 train_1561	1  2    +  1  3  8    +  1  4  4    +  7  3   >  4  5  
 train_2084	\lim  _ { x \rightarrow \frac { 1   } { 4   }  }  \frac { 1    -   4   ^ { x  -   \frac { 1   } { 4   }  }  } { 1    -   4   x } 
 train_1021	\left (  x ^ { 3   }   -   x ^ { 2   }   -   x \right )  \left (  2   x  -   7   \right ) 
-train_649	\frac { b -  a } { n } \leq\alpha
+train_649	\frac { b -  a } { n } \leq \alpha
 train_208	\frac { ( e ^ { i x }   -   e ^ {  -  i x }  )  } { 2   }  =  i \sin ( x ) 
 train_288	a  +  b  +  c  +  d  +  e
 train_50	a + c= b
