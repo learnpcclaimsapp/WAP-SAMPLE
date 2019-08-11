@@ -36,10 +36,10 @@ def dataIterator(feature_file,label_file,dictionary,batch_size,batch_Imagesize,m
 
 
     imageSize={}
-    for uid,fea in features.iteritems():
+    for uid,fea in features.items():
         imageSize[uid]=fea.shape[1]*fea.shape[2]
 
-    imageSize= sorted(imageSize.iteritems(), key=lambda d:d[1]) # sorted by sentence length,  return a list with each triple element
+    imageSize= sorted(imageSize.items(), key=lambda d:d[1]) # sorted by sentence length,  return a list with each triple element
 
 
     feature_batch=[]
