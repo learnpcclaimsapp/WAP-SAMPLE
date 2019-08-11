@@ -1,0 +1,441 @@
+train_1597	[  \frac  2 3 x ^ { \frac  3 2 }  ]  _ 0 ^ 1
+train_430	a \left (  n \right )  =  \sum ^ { n }  _ { k =  1 }  \left (  -  1 \right )  ^ { n -  k }  k ! 
+train_662	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_1906	a _ 2= - 1
+train_818	\lim  _ { x \rightarrow -  1 }  \frac { x ^ { 3 }  + 1 } { x + 1 } 
+train_1049	x _ 1 \times x _ 2 \times x _ 3 \times x _ 4 =  X
+train_1085	\pi \int _ c ^ d \{  g (  y  )  \ }  ^ 2 d y
+train_687	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z } 
+train_938	A =  \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a }  }  }  }  }  + \sqrt { b } 
+train_1378	\frac  2 { \frac  { 3 m -  2 n \times 9 ^ n -  9 ^ m }  { 2 n -  1 }  } 
+train_1630	\lim  _ { x \rightarrow -  1 }  \frac { x ^ { 3 }  + 1 } { x + 1 } 
+train_522	A =  \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a }  }  }  }  }  + \sqrt { b } 
+train_745	1 + \frac { 1 } { 1 !  }  + \frac { 1 } { 2 !  }  + \frac { 1 } { 3 !  }  + \frac { 1 } { 4 !  } 
+train_1456	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_874	ax ^ { 2 }  + 2bx + c =  0
+train_964	\sin ^ { 2 }  \theta + \cos ^ { 2 }  \theta =  1
+train_1388	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_582	\cos( 4a )  =  8\cos ^ 4( a )  -  8\cos ^ 2( a )  +1
+train_708	\left (  z ^ { \frac { n } { 2 }  }  + y ^ { \frac { n } { 2 }  }  \right )  \left (  z ^ { \frac { n } { 2 }  }  -  y ^ { \frac { n } { 2 }  }  \right )  =  x
+train_1433	\frac { 1 } { a }  F \left (  a x + b \right )  + C
+train_364	\log _ { 2 }  8 + \log _ { 3 }  9 + \log _ { 4 }  1 6
+train_35	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 }  }  }  } 
+train_446	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_2038	\lim  _ { x \rightarrow \frac { \pi } { 2 }  + 0 }  \tan x =  -  \infty
+train_1274	\lim  _ { x \rightarrow \frac { 1 } { 4 }  }  \frac { 1 -  4 ^ { x -  \frac { 1 } { 4 }  }  } { 1 -  4 x } 
+train_578	\gamma =  1 + \frac { 1 } { n } 
+train_2145	x _ { 1 }  -  x _ { 2 }  + y _ { 1 }  -  y _ { 2 }  + z _ { 1 }  + z _ { 2 } 
+train_1774	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_275	\sin x -  \sin y -  \sin \left (  x -  y \right ) 
+train_98	1 + \frac { 1 } { 1 !  }  + \frac { 1 } { 2 !  }  + \frac { 1 } { 3 !  }  + \frac { 1 } { 4 !  } 
+train_313	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_2107	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_95	y _ 1( x )  =  x ^ 2
+train_1515	[  \frac  2 3 x ^ { \frac  3 2 }  ]  _ 0 ^ 1
+train_1095	\sqrt { b ^ { 2 }  -  4 a c } 
+train_2146	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_96	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_1439	2 ^ n- 1
+train_495	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_636	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_1235	\left (  x ^ { 3 }  -  x ^ { 2 }  -  x \right )  \left (  2 x -  7 \right ) 
+train_1909	\sqrt { b ^ { 2 }  -  4 a c } 
+train_281	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_1155	[  \frac  2 3 x ^ { \frac  3 2 }  ]  _ 0 ^ 1
+train_1919	\sqrt { b ^ { 2 }  -  4 a c } 
+train_1361	\pi \int _ c ^ d \{  g (  y  )  \ }  ^ 2 d y
+train_1484	175 \times ( 162 \times 103 )  \leq 2920050
+train_341	\lim  _ { x \rightarrow \frac { 1 } { 4 }  }  \frac { 1 -  4 ^ { x -  \frac { 1 } { 4 }  }  } { 1 -  4 x } 
+train_1296	\int _ { \log 3 }  ^ 0 \frac  1 { e ^ t + 1 }  d t
+train_2236	y _ { 1 }  + y _ { 3 }  =  \sqrt { z _ { 2 }  } 
+train_873	\left (  x ^ { 3 }  -  x ^ { 2 }  -  x \right )  \left (  2 x -  7 \right ) 
+train_1496	[  \frac  2 3 x ^ { \frac  3 2 }  ]  _ 0 ^ 1
+train_1103	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_946	\left (  z ^ { \frac { n } { 2 }  }  + y ^ { \frac { n } { 2 }  }  \right )  \left (  z ^ { \frac { n } { 2 }  }  -  y ^ { \frac { n } { 2 }  }  \right )  =  x
+train_218	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_253	x= \phi _ { ki } ( z ) 
+train_1773	\pi \int _ c ^ d \{  g (  y  )  \ }  ^ 2 d y
+train_920	7 \times 154 \neq - 1362
+train_906	\lim  _ { x \rightarrow -  1 }  \frac { x ^ { 3 }  + 1 } { x + 1 } 
+train_729	\sin ^ { 2 }  \theta + \cos ^ { 2 }  \theta =  1
+train_1463	\left (  x ^ { 3 }  -  x ^ { 2 }  -  x \right )  \left (  2 x -  7 \right ) 
+train_721	a ^ 2 -  2ab =  ( a -  b )  ^ 2 -  b ^ 2
+train_1373	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z } 
+train_2188	x _ x ^ x + y _ y ^ y + z _ z ^ z -  x -  y -  z
+train_599	( ( 98 + 150 )  + ( 76 \div 16 )  )  + ( ( 97 \div 92 )  \times 151 )  \neq 326
+train_711	1+2+3+\ldots+( n- 1 ) +n
+train_2018	x _ { 1 }  + x _ { 2 }  =  x _ { 3 } 
+train_1853	\int _ a ^ b \frac  { \sqrt  x }  2 d x
+train_1624	[  b ^ x \{  (  \frac  a b  )  ^ x + 1 \ }  ]  ^ { \frac  1 x } 
+train_715	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_1313	\frac { 1 } { 10 } 
+train_1969	a ^ 2 -  2ab =  ( a -  b )  ^ 2 -  b ^ 2
+train_1327	[  \frac  2 3 x ^ { \frac  3 2 }  ]  _ 0 ^ 1
+train_1158	( ( 116 -  17 )  \times ( 124 -  98 )  )  \div 10 >  205
+train_484	8y _ { i+1 } 
+train_933	\sin x -  \sin y -  \sin \left (  x -  y \right ) 
+train_513	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_1389	[  b ^ x \{  (  \frac  a b  )  ^ x + 1 \ }  ]  ^ { \frac  1 x } 
+train_851	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_1886	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_403	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_1475	\frac { 1 } { a }  F \left (  a x + b \right )  + C
+train_154	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_2044	x _ { 1 }  + x _ { 2 }  =  x _ { 3 } 
+train_1434	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_1883	\lim  _ { x \rightarrow \frac { 1 } { 4 }  }  \frac { 1 -  4 ^ { x -  \frac { 1 } { 4 }  }  } { 1 -  4 x } 
+train_826	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 }  }  }  } 
+train_1275	7 \pm ( 111 \div ( 28 + 23 )  )  \times ( ( 53 + 187 )  \times ( 179 \div 147 )  ) 
+train_720	dx ^ 3+( 4e- c ^ 2 ) x ^ 2- 2cdx- d ^ 2 =  0
+train_830	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 }  }  }  } 
+train_845	\sin x -  \sin y -  \sin \left (  x -  y \right ) 
+train_437	189 \pm 159 \times ( 50 \times 99 ) 
+train_1759	x ^ 5+x+a
+train_323	3 0 \times 2 9 x ^ { 2 8 } 
+train_1148	( ( 56 \times 52 )  \div 135 )  + ( 34 -  ( 74 \times 92 )  )  \geq - 6752
+train_1450	\int _ { \log 3 }  ^ 0 \frac  1 { e ^ t + 1 }  d t
+train_2093	\log _ { 2 }  8 + \log _ { 3 }  9 + \log _ { 4 }  1 6
+train_1704	\frac { 1 } { a }  F \left (  a x + b \right )  + C
+train_2029	e =  \sum ^ { \infty }  _ { k =  0 }  \frac { 1 } { k !  } 
+train_309	\sin( -  x )  =  - \sin( x ) 
+train_21	x ^ 2+x+1 =  0
+train_50	a+c= b
+train_982	x _ { 1 }  -  x _ { 2 }  + y _ { 1 }  -  y _ { 2 }  + z _ { 1 }  -  z _ { 2 } 
+train_449	\sin x -  \sin y -  \sin \left (  x -  y \right ) 
+train_1836	x =  \frac { -  b \pm \sqrt { b ^ { 2 }  -  4 a c }  } { 2 a } 
+train_1090	F _ { n }  =  F _ { n -  1 }  + F _ { n -  2 } 
+train_49	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_2162	\sin x -  \sin y -  \sin \left (  x -  y \right ) 
+train_1619	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_1654	z _ 1 ^ 2 + 1 ^ z -  z _ 2 ^ 2 + 2 ^ z
+train_801	x _ { ( k )  } 
+train_1391	x _ x ^ x + y _ y ^ y + z _ z ^ z -  x -  y -  z
+train_1818	\sin x -  \sin y -  \sin \left (  x -  y \right ) 
+train_1664	x _ x ^ x + y _ y ^ y + z _ z ^ z -  x -  y -  z
+train_1632	\log _ { 2 }  8 + \log _ { 3 }  9 + \log _ { 4 }  1 6
+train_1349	e ^ { i \pi }  + 1 =  0
+train_1054	76 \pm ( 102 + 150 )  \times 56
+train_1436	A =  \sqrt  { a + \frac  1 { \sqrt  { a + \frac  1 { \sqrt  a }  }  }  }  + \sqrt  b
+train_1507	\lim  _ { x \rightarrow \infty }  \int _ 0 ^ x e ^ { -  y ^ 2 }  d y =  \frac  { \sqrt  \pi }  2
+train_1779	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 }  }  }  } 
+train_2253	x ^ { 2 }  + y ^ { 2 }  \lt 1
+train_1461	\log _ { 2 }  8 + \log _ { 3 }  9 + \log _ { 4 }  1 6
+train_2027	\frac  2 { \frac  { 3 m -  2 n \times 9 ^ n -  9 ^ m }  { 2 n -  1 }  } 
+train_1264	\sqrt  { 1 + \sqrt  { 2 + \sqrt  { 3 + \sqrt  4 }  }  } 
+train_573	\alpha _ { n + 1 }  -  3 \beta =  \frac { 2 } { 3 }  \alpha _ { n }  + \beta -  3 \beta
+train_739	3 0 \times 2 9 x ^ { 2 8 } 
+train_1620	n \log _ 2 n
+train_1033	[  b ^ x \{  (  \frac  a b  )  ^ x + 1 \ }  ]  ^ { \frac  1 x } 
+train_951	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_1768	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_1572	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_1266	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_1587	a + b + c + d + e
+train_1999	\sum _ { i =  2 n + 3 m }  ^ { 1 0 }  i x
+train_1570	ac= 1
+train_1834	y =  \frac { 1 } { x } 
+train_1594	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_1106	x ^ { 2 }  + y ^ { 2 }  \lt 1
+train_1533	\lim  _ { x \rightarrow \frac { 1 } { 4 }  }  \frac { 1 -  4 ^ { x -  \frac { 1 } { 4 }  }  } { 1 -  4 x } 
+train_1821	\int _ { \log 3 }  ^ 0 \frac  1 { e ^ t + 1 }  d t
+train_581	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_481	\lim  _ { x \rightarrow \frac { \pi } { 2 }  + 0 }  \tan x =  -  \infty
+train_268	a + b + c + d + e
+train_790	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 }  }  }  } 
+train_3	\theta _ 2= \theta
+train_1122	\lim  _ { x \rightarrow \infty }  \int _ 0 ^ x e ^ { -  y ^ 2 }  d y =  \frac  { \sqrt  \pi }  2
+train_1920	a + b + c + d + e
+train_276	89 \times ( ( 155 \times 50 )  \div 132 )  \neq - 1372
+train_1429	\log _ { 2 }  8 =  3
+train_2097	\log _ { 2 }  8 + \log _ { 3 }  9 + \log _ { 4 }  1 6
+train_1186	( 2- 1 ) 
+train_2147	\sqrt  { 1 + \sqrt  { 2 + \sqrt  { 3 + \sqrt  4 }  }  } 
+train_2255	\sqrt { b ^ { 2 }  -  4 a c } 
+train_1608	\lim  _ { x \rightarrow \infty }  \int _ 0 ^ x e ^ { -  y ^ 2 }  d y =  \frac  { \sqrt  \pi }  2
+train_1730	z _ 1 ^ 2 + 1 ^ z -  z _ 2 ^ 2 + 2 ^ z
+train_102	\lim  _ { x \rightarrow \frac { 1 } { 4 }  }  \frac { 1 -  4 ^ { x -  \frac { 1 } { 4 }  }  } { 1 -  4 x } 
+train_2067	\log _ 2 \frac  1 2 + \log _ 4 \frac  2 4
+train_2169	1 + \frac { 1 } { 1 !  }  + \frac { 1 } { 2 !  }  + \frac { 1 } { 3 !  }  + \frac { 1 } { 4 !  } 
+train_342	\log _ { 2 }  8 =  3
+train_1756	3 0 \times 2 9 x ^ { 2 8 } 
+train_493	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_1365	x _ x ^ x + y _ y ^ y + z _ z ^ z -  x -  y -  z
+train_494	x _ 4 =  - \sqrt { 2 } 
+train_1793	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_2	\lim  _ { x \rightarrow \frac { \pi } { 2 }  + 0 }  \tan x =  -  \infty
+train_892	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_1500	\frac { 1 } { a }  F \left (  a x + b \right )  + C
+train_1077	( 166 + ( 93 \times 67 )  )  -  ( 64 + 127 + 176 )  \leq 6030
+train_1846	b _ 0= 1
+train_491	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z } 
+train_1495	4,  2,  1
+train_652	\alpha _ { n + 1 }  -  3 \beta =  \frac { 2 } { 3 }  \alpha _ { n }  + \beta -  3 \beta
+train_1655	\int _ { \log 3 }  ^ 0 \frac  1 { e ^ t + 1 }  d t
+train_1549	3 =  \sqrt { 6+\sqrt { 6+\sqrt { 6+\sqrt { 6+\ldots }  }  }  } 
+train_1104	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_987	\log _ 2 \frac  1 2 + \log _ 4 \frac  2 4
+train_1974	\frac { 1 } { a }  F \left (  a x + b \right )  + C
+train_732	- 2x
+train_1191	[  \frac  2 3 x ^ { \frac  3 2 }  ]  _ 0 ^ 1
+train_127	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_2078	x _ { 1 }  + x _ { 2 }  =  x _ { 3 } 
+train_347	2 ^ n- 1
+train_1482	z _ 1 ^ 2 + 1 ^ z -  z _ 2 ^ 2 + 2 ^ z
+train_1003	a + b + c + d + e
+train_1987	- 2x
+train_118	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_489	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_1956	x _ 1 \times x _ 2 \times x _ 3 \times x _ 4 =  X
+train_192	x _ { 1 }  -  x _ { 2 }  + y _ { 1 }  -  y _ { 2 }  + z _ { 1 }  -  z _ { 2 } 
+train_161	x =  \frac { -  b \pm \sqrt { b ^ { 2 }  -  4 a c }  } { 2 a } 
+train_833	\frac { \beta } { \alpha- 1 } 
+train_633	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_23	\phi( x ) 
+train_339	A =  \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a }  }  }  }  }  + \sqrt { b } 
+train_1605	\left (  x ^ { 3 }  -  x ^ { 2 }  -  x \right )  \left (  2 x -  7 \right ) 
+train_452	\sin ^ { 2 }  \theta + \cos ^ { 2 }  \theta =  1
+train_524	\sqrt { 5+2\sqrt { 6 }   } 
+train_1907	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_1502	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_1973	z _ 1 ^ 2 + 1 ^ z -  z _ 2 ^ 2 + 2 ^ z
+train_1259	x _ 1 \times x _ 2 \times x _ 3 \times x _ 4 =  X
+train_1699	3 0 \times 2 9 x ^ { 2 8 } 
+train_2057	\sin x -  \sin y -  \sin \left (  x -  y \right ) 
+train_822	\frac { \sqrt { 3 }  } { 4 } 
+train_1916	\alpha _ { n + 1 }  -  3 \beta =  \frac { 2 } { 3 }  \alpha _ { n }  + \beta -  3 \beta
+train_1860	\int _ a ^ b \frac  { \sqrt  x }  2 d x
+train_1074	\sqrt  { 1 + \sqrt  { 2 + \sqrt  { 3 + \sqrt  4 }  }  } 
+train_702	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_128	x ^ { 2 }  + y ^ { 2 }  \lt 1
+train_810	\log _ { 2 }  8 + \log _ { 3 }  9 + \log _ { 4 }  1 6
+train_865	\sqrt { b ^ { 2 }  -  4 a c } 
+train_1598	19 \times 7 \leq 133
+train_1417	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_1179	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_1562	\log _ 2 \frac  1 2 + \log _ 4 \frac  2 4
+train_1525	a + b + c + d + e
+train_1521	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_1653	3n- 5
+train_569	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_294	3 0 \times 2 9 x ^ { 2 8 } 
+train_1290	A =  \sqrt  { a + \frac  1 { \sqrt  { a + \frac  1 { \sqrt  a }  }  }  }  + \sqrt  b
+train_2104	21- 5\sqrt { 21 }  + ( 15\sqrt { 7 } - 21\sqrt { 3 }  ) i
+train_213	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_1386	[  \frac  2 3 x ^ { \frac  3 2 }  ]  _ 0 ^ 1
+train_2088	\sqrt  { 1 + \sqrt  { 2 + \sqrt  { 3 + \sqrt  4 }  }  } 
+train_1044	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_317	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_519	\frac { 1 } { a }  F \left (  a x + b \right )  + C
+train_993	\lim  _ { x \rightarrow \frac { 1 } { 4 }  }  \frac { 1 -  4 ^ { x -  \frac { 1 } { 4 }  }  } { 1 -  4 x } 
+train_473	n \log _ 2 n
+train_1542	\int _ { \log 3 }  ^ 0 \frac  1 { e ^ t + 1 }  d t
+train_490	\sqrt { 1+\frac { 1 } { \sqrt { 2 }  }  }  +\sqrt { 1- \frac { 1 } { \sqrt { 2 }  }  } 
+train_773	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_1019	x _ 1 \times x _ 2 \times x _ 3 \times x _ 4 =  X
+train_565	y =  \frac { 1 } { x ^ 2 + 1 } 
+train_761	e =  \sum ^ { \infty }  _ { k =  0 }  \frac { 1 } { k !  } 
+train_970	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_379	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_111	e =  2
+train_743	3 ^ { n+1 }  + 2
+train_1673	x _ { 1 }  + x _ { 2 }  =  x _ { 3 } 
+train_802	4 ^ 2 =  2 ^ 4
+train_875	c ^ 2 =  ( a- b )  ^ 2+2ab
+train_635	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_1738	\lim  _ { x \rightarrow -  1 }  \frac { x ^ { 3 }  + 1 } { x + 1 } 
+train_707	a \left (  n \right )  =  \sum ^ { n }  _ { k =  1 }  \left (  -  1 \right )  ^ { n -  k }  k ! 
+train_1400	\frac { 1 } { a }  F \left (  a x + b \right )  + C
+train_1030	a + b + c + d + e
+train_1219	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_2080	x _ { ( k )  } 
+train_1866	\pi \int _ c ^ d \{  g (  y  )  \ }  ^ 2 d y
+train_612	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_1352	\tan z =  \frac { \sin z } { \cos z } 
+train_1137	x -  n
+train_627	\left (  x ^ { 3 }  -  x ^ { 2 }  -  x \right )  \left (  2 x -  7 \right ) 
+train_880	e =  \sum ^ { \infty }  _ { k =  0 }  \frac { 1 } { k !  } 
+train_1682	\int _ a ^ b \frac  { \sqrt  x }  2 d x
+train_365	( ( 117 \times 54 )  \div ( 141 \times 124 )  )  -  ( ( 70 \div 193 )  \div 159 )  \geq 0
+train_695	\frac { a ^ 2 } { b ^ 2 }  =  a ^ k
+train_1319	\log _ 2 \frac  1 2 + \log _ 4 \frac  2 4
+train_1086	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_1189	\left (  x ^ { 3 }  -  x ^ { 2 }  -  x \right )  \left (  2 x -  7 \right ) 
+train_2155	192 -  166 \neq 12
+train_224	F _ { n }  =  F _ { n -  1 }  + F _ { n -  2 } 
+train_1393	\frac { 1 } { a }  F \left (  a x + b \right )  + C
+train_1457	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_83	1 + \frac { 1 } { 1 !  }  + \frac { 1 } { 2 !  }  + \frac { 1 } { 3 !  }  + \frac { 1 } { 4 !  } 
+train_457	x ^ { 2 }  + y ^ { 2 }  \lt 1
+train_564	a + b + c + d + e
+train_1837	40 -  ( 134 -  ( 144 \div 154 )  )  \geq - 93
+train_1923	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z } 
+train_1856	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_611	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_541	y= x ^ { n } 
+train_398	\log _ { 2 }  8 + \log _ { 3 }  9 + \log _ { 4 }  1 6
+train_1680	x _ x ^ x + y _ y ^ y + z _ z ^ z -  x -  y -  z
+train_1320	\sqrt { b ^ { 2 }  -  4 a c } 
+train_120	x ^ { 2 }  + y ^ { 2 }  \lt 1
+train_146	\sum _ 0 ^ \infty \frac { 1 } { n ^ 2 } 
+train_816	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_1763	\left (  z ^ { \frac { n } { 2 }  }  + y ^ { \frac { n } { 2 }  }  \right )  \left (  z ^ { \frac { n } { 2 }  }  -  y ^ { \frac { n } { 2 }  }  \right )  =  x
+train_428	3 =  \sqrt { 6+\sqrt { 6+\sqrt { 6+\sqrt { 6+\ldots }  }  }  } 
+train_160	x _ { 1 }  + x _ { 2 }  =  x _ { 3 } 
+train_208	\frac { ( e ^ { i x }  -  e ^ { - i x }  )  } { 2 }  =  i \sin( x ) 
+train_2243	\tan z =  \frac { \sin z } { \cos z } 
+train_1237	( 2- 1- 1 ) 
+train_471	\sqrt { b ^ { 2 }  -  4 a c } 
+train_2135	x= \beta _ { 3 } y _ { 3 } +\ldots+\beta _ { n+1 } y _ { n+1 } 
+train_1944	A =  \sqrt  { a + \frac  1 { \sqrt  { a + \frac  1 { \sqrt  a }  }  }  }  + \sqrt  b
+train_1199	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_1574	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_1799	1 + \frac { 1 } { 1 !  }  + \frac { 1 } { 2 !  }  + \frac { 1 } { 3 !  }  + \frac { 1 } { 4 !  } 
+train_1032	\sqrt { b ^ { 2 }  -  4 a c } 
+train_1079	\frac  2 { \frac  { 3 m -  2 n \times 9 ^ n -  9 ^ m }  { 2 n -  1 }  } 
+train_1408	x ^ 2 -  dy ^ 2 = \pm 1
+train_1164	\frac { y _ 2x _ 2- y _ 1x _ 1 } { n } 
+train_421	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z } 
+train_653	x _ { 1 }  + x _ { 2 }  =  x _ { 3 } 
+train_1752	a + b + c + d + e
+train_28	\sin ^ { 2 }  \theta + \cos ^ { 2 }  \theta =  1
+train_758	a + b + c + d + e
+train_1020	( ( 84 /  113 )  /  51 )  -  119 =  - 118. 99
+train_1149	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_879	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_245	0 \pm 52 \times ( 169 + 196 -  58 ) 
+train_103	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_1741	\sum _ { i =  2 n + 3 m }  ^ { 1 0 }  i x
+train_1531	\sin x -  \sin y -  \sin \left (  x -  y \right ) 
+train_716	\lim  _ { x \rightarrow \frac { 1 } { 4 }  }  \frac { 1 -  4 ^ { x -  \frac { 1 } { 4 }  }  } { 1 -  4 x } 
+train_267	\sqrt { b ^ { 2 }  -  4 a c } 
+train_797	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_922	\pi \int _ c ^ d \{  g (  y  )  \ }  ^ 2 d y
+train_2212	x _ 1 \times x _ 2 \times x _ 3 \times x _ 4 =  X
+train_2187	ax ^ { 2 }  + 2bx + c =  0
+train_2113	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_915	x _ { 1 }  + x _ { 2 }  =  x _ { 3 } 
+train_1210	2 ^ { 17 } 
+train_1390	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z } 
+train_1234	a + b + c + d + e
+train_1247	\int _ { \log 3 }  ^ 0 \frac  1 { e ^ t + 1 }  d t
+train_1520	\frac { 1 } { a }  F \left (  a x + b \right )  + C
+train_841	x= \beta _ { 3 } y _ { 3 } +\ldots+\beta _ { n+1 } y _ { n+1 } 
+train_869	e =  \sum ^ { \infty }  _ { k =  0 }  \frac { 1 } { k !  } 
+train_1977	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_730	( 72 \div 151 )  \div ( 10 \times 152 )  \leq 0
+train_1600	148 -  141 \neq - 4
+train_2108	\frac { 1 } { a }  F \left (  a x + b \right )  + C
+train_784	\sin x -  \sin y -  \sin \left (  x -  y \right ) 
+train_680	\log _ { 2 }  8 + \log _ { 3 }  9 + \log _ { 4 }  1 6
+train_525	a \left (  n \right )  =  \sum ^ { n }  _ { k =  1 }  \left (  -  1 \right )  ^ { n -  k }  k ! 
+train_387	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_2091	\sum _ { i =  2 n + 3 m }  ^ { 1 0 }  i x
+train_1552	a \left (  n \right )  =  \sum ^ { n }  _ { k =  1 }  \left (  -  1 \right )  ^ { n -  k }  k ! 
+train_1710	a \left (  n \right )  =  \sum ^ { n }  _ { k =  1 }  \left (  -  1 \right )  ^ { n -  k }  k ! 
+train_824	\lim  _ { x \rightarrow \frac { 1 } { 4 }  }  \frac { 1 -  4 ^ { x -  \frac { 1 } { 4 }  }  } { 1 -  4 x } 
+train_889	x _ { 1 }  -  x _ { 2 }  + y _ { 1 }  -  y _ { 2 }  + z _ { 1 }  -  z _ { 2 } 
+train_295	12 \pm ( ( 29 \times 6 )  + 22 )  + ( ( 47 \times 133 )  -  ( 86 -  187 )  ) 
+train_1592	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_2239	\left (  x ^ { 3 }  -  x ^ { 2 }  -  x \right )  \left (  2 x -  7 \right ) 
+train_924	x _ x ^ x + y _ y ^ y + z _ z ^ z -  x -  y -  z
+train_2218	94 + 74 + 6 + 138 >  21
+train_300	x _ { 1 }  + x _ { 2 }  =  x _ { 3 } 
+train_1366	[  \frac  2 3 x ^ { \frac  3 2 }  ]  _ 0 ^ 1
+train_1444	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z } 
+train_436	x _ { 1 }  + x _ { 2 }  =  x _ { 3 } 
+train_1181	x ^ { 2 }  + y ^ { 2 }  \lt 1
+train_459	3 0 \times 2 9 x ^ { 2 8 } 
+train_817	21- 5\sqrt { 21 }  + ( 15\sqrt { 7 } - 21\sqrt { 3 }  ) i
+train_1051	10 ^ { - 12 } 
+train_425	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 }  }  }  } 
+train_1764	\log _ 2 \frac  1 2 + \log _ 4 \frac  2 4
+train_1509	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_239	\sin x -  \sin y -  \sin \left (  x -  y \right ) 
+train_1008	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_1242	\log _ 2 \frac  1 2 + \log _ 4 \frac  2 4
+train_2119	3 0 \times 2 9 x ^ { 2 8 } 
+train_350	A =  \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a }  }  }  }  }  + \sqrt { b } 
+train_1483	\frac  2 { \frac  { 3 m -  2 n \times 9 ^ n -  9 ^ m }  { 2 n -  1 }  } 
+train_393	\left (  x ^ { 3 }  -  x ^ { 2 }  -  x \right )  \left (  2 x -  7 \right ) 
+train_1949	\left (  z ^ { \frac { n } { 2 }  }  + y ^ { \frac { n } { 2 }  }  \right )  \left (  z ^ { \frac { n } { 2 }  }  -  y ^ { \frac { n } { 2 }  }  \right )  =  x
+train_1831	x _ { 1 }  -  x _ { 2 }  + y _ { 1 }  -  y _ { 2 }  + z _ { 1 }  -  z _ { 2 } 
+train_648	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_2028	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 }  }  }  } 
+train_1099	\int _ a ^ b \frac  { \sqrt  x }  2 d x
+train_1129	z _ 1 ^ 2 + 1 ^ z -  z _ 2 ^ 2 + 2 ^ z
+train_1510	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_170	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 }  }  }  } 
+train_1985	\sqrt  { 1 + \sqrt  { 2 + \sqrt  { 3 + \sqrt  4 }  }  } 
+train_1917	26 \pm ( 109 + 119 -  82 )  \div ( ( 169 -  123 )  + ( 20 \div 175 )  ) 
+train_2208	a \left (  n \right )  =  \sum ^ { n }  _ { k =  1 }  \left (  -  1 \right )  ^ { n -  k }  k ! 
+train_726	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_1141	\log _ { 2 }  8 + \log _ { 3 }  9 + \log _ { 4 }  1 6
+train_506	\frac { 1 } { - 1 }  =  \frac { - 1 } { 1 } 
+train_137	1 -  ( - 1 )  ^ d
+train_500	a + b + c + d + e
+train_204	\left (  x ^ { 3 }  -  x ^ { 2 }  -  x \right )  \left (  2 x -  7 \right ) 
+train_1782	\pi \int _ c ^ d \{  g (  y  )  \ }  ^ 2 d y
+train_1415	[  \frac  2 3 x ^ { \frac  3 2 }  ]  _ 0 ^ 1
+train_1362	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_2227	3 0 \times 2 9 x ^ { 2 8 } 
+train_1874	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_504	n =  0
+train_2159	\sum _ { i =  2 n + 3 m }  ^ { 1 0 }  i x
+train_174	x _ { 1 }  + x _ { 2 }  =  x _ { 3 } 
+train_1372	f+g
+train_696	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_1851	\alpha _ { n + 1 }  -  3 \beta =  \frac { 2 } { 3 }  \alpha _ { n }  + \beta -  3 \beta
+train_2249	[  \frac  2 3 x ^ { \frac  3 2 }  ]  _ 0 ^ 1
+train_919	x =  \frac { -  b \pm \sqrt { b ^ { 2 }  -  4 a c }  } { 2 a } 
+train_1617	z _ 1 ^ 2 + 1 ^ z -  z _ 2 ^ 2 + 2 ^ z
+train_325	\lim  _ { x \rightarrow \frac { \pi } { 2 }  + 0 }  \tan x =  -  \infty
+train_1084	6 =  2 ^ 1( 2 ^ 2- 1 ) 
+train_2046	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_1812	\lim  _ { x \rightarrow -  1 }  \frac { x ^ { 3 }  + 1 } { x + 1 } 
+train_2074	x =  \frac { -  b \pm \sqrt { b ^ { 2 }  -  4 a c }  } { 2 a } 
+train_1014	\sin ^ { 2 }  \theta + \cos ^ { 2 }  \theta =  1
+train_1744	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_735	\left (  x ^ { 3 }  -  x ^ { 2 }  -  x \right )  \left (  2 x -  7 \right ) 
+train_336	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_293	10 ^ { 64 } 
+train_2163	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 }  }  }  } 
+train_2001	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_1322	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x
+train_259	1 + \frac { 1 } { 1 !  }  + \frac { 1 } { 2 !  }  + \frac { 1 } { 3 !  }  + \frac { 1 } { 4 !  } 
+train_808	A =  \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a }  }  }  }  }  + \sqrt { b } 
+train_2185	\int _ { \log 3 }  ^ 0 \frac  1 { e ^ t + 1 }  d t
+train_0	7 \times 154 \neq - 1362
+train_967	[  b ^ x \{  (  \frac  a b  )  ^ x + 1 \ }  ]  ^ { \frac  1 x } 
+train_90	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_1862	x ^ { i + 2 j \times k ^ { 3 }  -  2 \frac { j } { i }  } 
+train_1573	\sin x -  \sin y -  \sin \left (  x -  y \right ) 
+train_511	e ^ { i \pi }  + 1 =  0
+train_544	x _ { 1 }  -  x _ { 2 }  + y _ { 1 }  -  y _ { 2 }  + z _ { 1 }  -  z _ { 2 } 
+train_36	\log _ { 2 }  8 + \log _ { 3 }  9 + \log _ { 4 }  1 6
+train_1364	[  b ^ x \{  (  \frac  a b  )  ^ x + 1 \ }  ]  ^ { \frac  1 x } 
+train_1569	f( x )  =  X ^ 2 -  4X -  5
+train_1029	n ^ 3 =  n ^ { \log _ { 2 } 8 } 
+train_1891	\tan z =  \frac { \sin z } { \cos z } 
+train_1097	\frac { \sin B + \sin C } { \cos B + \cos C } 
+train_1961	\frac { 2 \tan \alpha } { 1 -  \tan ^ { 2 }  \alpha } 
+train_1564	\log _ 2 \frac  1 2 + \log _ 4 \frac  2 4
+train_927	A =  \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a }  }  }  }  }  + \sqrt { b } 
+train_1970	\alpha _ { n + 1 }  -  3 \beta =  \frac { 2 } { 3 }  \alpha _ { n }  + \beta -  3 \beta
+train_1824	[  b ^ x \{  (  \frac  a b  )  ^ x + 1 \ }  ]  ^ { \frac  1 x } 
+train_1072	1 + \frac { 1 } { 1 !  }  + \frac { 1 } { 2 !  }  + \frac { 1 } { 3 !  }  + \frac { 1 } { 4 !  } 
+train_621	\frac { \tan \alpha -  \tan \beta } { 1 + \tan \alpha \tan \beta } 
+train_1526	\lim  _ { x \rightarrow \frac { 1 } { 4 }  }  \frac { 1 -  4 ^ { x -  \frac { 1 } { 4 }  }  } { 1 -  4 x } 
+train_1675	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_1895	x _ 1 \times x _ 2 \times x _ 3 \times x _ 4 =  X
+train_1832	\lim  _ { x \rightarrow -  1 }  \frac { x ^ { 3 }  + 1 } { x + 1 } 
+train_1360	\sqrt { b ^ { 2 }  -  4 a c } 
+train_1547	\sin ( nx ) 
+train_1272	x _ { i }  -  x _ { i + 1 }  + x _ { i + 2 } 
+train_252	\sqrt { x -  y -  z + x ^ { 2 }  + y ^ { 2 }  + z ^ { 2 }  } 
+train_210	n \log( n ) 
+train_2064	x _ { 1 }  -  x _ { 2 }  + y _ { 1 }  -  y _ { 2 }  + z _ { 1 }  -  z _ { 2 } 
+train_1884	 \lim  _ { n \rightarrow \infty }  t _ { 3n }  =  \frac { 1 } { 2 }  \log 2 
+train_2033	x _ x ^ x + y _ y ^ y + z _ z ^ z -  x -  y -  z
+train_1130	z _ 1 ^ 2 + 1 ^ z -  z _ 2 ^ 2 + 2 ^ z
+train_863	e ^ { i \pi }  + 1 =  0
+train_558	\int \left (  2 ^ { x }  -  3 e ^ { x }  \right )  d x

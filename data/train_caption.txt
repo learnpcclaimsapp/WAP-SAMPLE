@@ -1,0 +1,1806 @@
+train_2007	\sin x - \sin y - \sin \left( x - y \right)
+train_384	\cos (a + b) = \cos a \cos b - \sin a \sin b
+train_1988	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_625	x^2 + 2x\sqrt{2} + 1
+train_1565	189 \pm 159 \times (50 \times 99)
+train_1011	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1737	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1699	3 0 \times 2 9 x^{2 8}
+train_1763	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_847	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_2068	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1249	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_982	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1158	((116 - 17) \times (124 - 98)) \div 10 > 205
+train_330	126 - 48 = 78
+train_1506	F_{n} = F_{n - 1} + F_{n - 2}
+train_276	89 \times ((155 \times 50) \div 132) \neq -1372
+train_1974	\frac{1}{a} F \left( a x + b \right) + C
+train_385	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_367	\frac{n(n+1)}{2}+\frac{n(n-1)}{2}
+train_1523	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_73	\sqrt{b^{2} - 4 a c}
+train_796	y^2=\frac{x^3}{2a-x}
+train_468	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_376	\frac{1}{a} F \left( a x + b \right) + C
+train_1176	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_496	(51 - 53 + 31) - ((186 \times 21) \times (161 \div 103)) \neq -8248
+train_892	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_2073	x_1 \times x_2 \times x_3 \times x_4 = X
+train_18	\sqrt{b^{2} - 4 a c}
+train_1469	\sqrt{b^{2} - 4 a c}
+train_582	\cos(4a) = 8\cos^4(a) - 8\cos^2(a) +1
+train_296	a + b + c + d + e
+train_934	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1736	a + b + c + d + e
+train_2005	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_1458	z_1^2 + 1^z - z_2^2 + 2^z
+train_1489	\cos (a + b) = \cos a \cos b - \sin a \sin b
+train_477	\frac{1}{a} F \left( a x + b \right) + C
+train_278	-\frac{1}{\pi}
+train_720	dx^3+(4e-c^2)x^2-2cdx-d^2 = 0
+train_108	12 \div 75 \geq 0
+train_1603	y+16=x
+train_113	x_{1} + x_{2} = x_{3}
+train_418	ax + by + cz + d=0
+train_1307	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_441	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_403	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_888	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_235	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_594	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1034	\cos(2x)=\cos^2(x)-\sin^2(x)
+train_170	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1468	2^{18}
+train_1833	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_62	\sqrt{b^{2} - 4 a c}
+train_826	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_229	2 {k} {\pi}
+train_1371	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1968	dx^3+(4e-c^2)x^2-2cdx-d^2 = 0
+train_1929	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1507	\lim_{x \rightarrow \infty} \int_0^x e^{- y^2} d y = \frac {\sqrt \pi} 2
+train_1500	\frac{1}{a} F \left( a x + b \right) + C
+train_2182	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_391	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1318	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1480	\sqrt{b^{2} - 4 a c}
+train_2165	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1639	x_x^x + y_y^y + z_z^z - x - y - z
+train_943	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1444	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_2086	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_2252	\forall x, f(x)
+train_1548	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_724	\frac{1}{a} F \left( a x + b \right) + C
+train_472	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1953	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_322	\int \left( 2^{x} - 3 e^{x} \right) d_{x}
+train_1101	a + b + c + d + e
+train_1640	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1898	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_2051	(166 - 122 + 32) + ((106 \div 30) \div (30 \div 18)) \geq 77
+train_759	F_{n} = F_{n - 1} + F_{n - 2}
+train_1178	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_2219	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_1636	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_93	F_{n} = F_{n - 1} + F_{n - 2}
+train_1312	0 \pm 145 - 35
+train_1642	\sqrt{1+\frac{1}{\sqrt{2}}} +\sqrt{1-\frac{1}{\sqrt{2}}}
+train_1842	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_1996	3 0 \times 2 9 x^{2 8}
+train_1240	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_2038	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_223	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1944	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_1113	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1467	e^{i \pi} + 1 = 0
+train_2020	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_1905	\sqrt{b^{2} - 4 a c}
+train_1229	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_504	n = 0
+train_172	10x = 3
+train_1199	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_688	\log_{2} 8 = 3
+train_264	a + b + c + d + e
+train_996	z_1^2 + 1^z - z_2^2 + 2^z
+train_1956	x_1 \times x_2 \times x_3 \times x_4 = X
+train_1046	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1350	2^{n(n - 1)}
+train_240	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_394	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_42	113 + (168 \div 86) \leq 115
+train_680	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_274	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1013	n-1
+train_1039	\sin(x)
+train_597	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1862	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_912	67 - 132 - 181 - 194 = -52
+train_198	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_1074	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_111	e = 2
+train_1434	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1359	a + b + c + d + e
+train_1055	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_871	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_44	\sin x - \sin y - \sin \left( x - y \right)
+train_1463	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_898	\frac{1}{a} F \left( a x + b \right) + C
+train_1657	1 \pm 20 - 173
+train_377	x^{i + 2 j \times k^{3} - \frac{j}{2 i}}
+train_878	a + b + c + d + e
+train_925	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_1513	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1290	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_986	\sin x - \sin y - \sin \left( x - y \right)
+train_563	\sqrt{1-z^2}
+train_1370	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_973	3 0 \times 2 9 x^{2 8}
+train_187	\log_c(a - b) = \log_c(c^{(\log_ca - \log_cb)} - 1 )+ \log_cb
+train_1273	(\gamma )
+train_567	3 0 \times 2 9 x^{2 8}
+train_1343	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1388	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1671	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_799	x_{1} + x_{2} = x_{3}
+train_975	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_629	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_133	\frac{1}{500}
+train_1387	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_548	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_731	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1888	\log_{2} 8 = 3
+train_1225	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1048	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_1386	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_816	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_2215	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_778	a + b + c + d + e
+train_649	\frac{b-a}{n}\leq\alpha
+train_1998	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_1554	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_2149	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_685	a + b + c + d + e
+train_2036	y = z x
+train_118	x_{i} - x_{i + 1} + x_{i + 2}
+train_794	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_125	x=\alpha_{1} y_{1}+\ldots+\alpha_{n+1}y_{n+1}
+train_39	\log_{2} 8 = 3
+train_672	a_2=-1
+train_1262	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_1786	a + b + c + d + e
+train_1294	x_1 \times x_2 \times x_3 \times x_4 = X
+train_980	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_277	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_2166	(47 \times 111) + 85 \geq 5301
+train_1680	x_x^x + y_y^y + z_z^z - x - y - z
+train_946	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_1064	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_200	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_408	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_756	\frac{1}{a} F \left( a x + b \right) + C
+train_749	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1941	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_2190	x_x^x + y_y^y + z_z^z - x - y - z
+train_637	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_528	3 0 \times 2 9 x^{2 8}
+train_1791	\alpha_{n + 1} - 3 \beta = \frac{3}{2} \alpha_{n} + \beta - 3 \beta
+train_1590	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_19	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1750	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_417	\frac{1}{a} F \left( a x + b \right) + C
+train_2044	x_{1} + x_{2} = x_{3}
+train_1767	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1844	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1931	\frac{a^2}{b^2} = a^k
+train_169	14 \times 87 \neq -196
+train_1706	x_{1} + x_{2} = x_{3}
+train_1218	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_2074	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_1476	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_682	26 \pm (109 + 119 - 82) \div ((169 - 123) + (20 \div 175))
+train_1851	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1517	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1887	x_{1} + x_{2} = x_{3}
+train_1752	a + b + c + d + e
+train_518	e^{-1}
+train_346	\tan z = \frac{\sin z}{\cos z}
+train_1220	x_x^x + y_y^y + z_z^z - x - y - z
+train_1516	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_214	\frac{1}{a} F \left( a x + b \right) + C
+train_150	((56 \times 52) \div 135) + (34 - (74 \times 92)) \geq -6752
+train_1681	\sin x - \sin y - \sin \left( x - y \right)
+train_1602	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1421	\sin x - \sin y - \sin \left( x - y \right)
+train_1920	a + b + c + d + e
+train_1453	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_2106	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1948	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_1114	x=\alpha_{1} y_{1}+\ldots+\alpha_{n+1}y_{n+1}
+train_115	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_336	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_334	a + b + c + d + e
+train_684	\sqrt{b^{2} - 4 a c}
+train_2214	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1713	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_343	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_371	\sqrt{b^{2} - 4 a c}
+train_1464	\frac{n(n+1)}{2}+\frac{n(n-1)}{2}
+train_873	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_558	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_916	x^{2} + y^{2} \lt 1
+train_1745	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_1703	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_865	\sqrt{b^{2} - 4 a c}
+train_2066	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_160	x_{1} + x_{2} = x_{3}
+train_2082	3 0 \times 2 9 x^{2 8}
+train_326	83 \pm ((179 \div 23) - (149 + 151)) \div 88
+train_1627	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1691	\sin^2(x)
+train_801	x_{(k)}
+train_2031	\pi(e_1)
+train_1139	\sin x - \sin y - \sin \left( x - y \right)
+train_908	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_2160	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1934	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_977	\sqrt{b^{2} - 4 a c}
+train_2205	\tan z = \frac{\sin z}{\cos z}
+train_1840	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1192	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_231	x_{i} - x_{i + 1} + x_{i + 2}
+train_691	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_1130	z_1^2 + 1^z - z_2^2 + 2^z
+train_2211	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_574	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_2019	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_209	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1911	x_{1} + x_{2} = x_{3}
+train_486	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1405	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_1802	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_804	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1375	x_{i} - x_{i + 1} + x_{i + 2}
+train_52	x_{i} - x_{i + 1} + x_{i + 2}
+train_658	\log_{2} 8 = 3
+train_1857	\lim_{x \rightarrow \infty} \int_0^x e^{- y^2} d y = \frac {\sqrt \pi} 2
+train_1864	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_511	e^{i \pi} + 1 = 0
+train_590	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_936	x_x^x + y_y^y + z_z^z - x - y - z
+train_773	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1601	\lim_{x \rightarrow \infty} \int_0^x e^{- y^2} d y = \frac {\sqrt \pi} 2
+train_1352	\tan z = \frac{\sin z}{\cos z}
+train_774	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_428	3 = \sqrt{6+\sqrt{6+\sqrt{6+\sqrt{6+\ldots}}}}
+train_1919	\sqrt{b^{2} - 4 a c}
+train_1761	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_967	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_2232	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1661	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1508	\exists k, x_k
+train_1222	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_2154	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_1392	\lim_{x \rightarrow \infty} \int_0^x e^{- y^2} d y = \frac {\sqrt \pi} 2
+train_1682	\int_a^b \frac {\sqrt x} 2 d x
+train_1305	(n+3)
+train_1782	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1448	\frac{1}{a} F \left( a x + b \right) + C
+train_1841	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_206	\sqrt{2+\sqrt{2}}
+train_1184	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1643	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1824	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_835	146 \times (101 + 157 - 181) = 11242
+train_1926	x_{1} + x_{2} = x_{3}
+train_126	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1337	x_{i} - x_{i + 1} + x_{i + 2}
+train_1325	x_{1} + x_{2} = x_{3}
+train_269	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_910	F_{n} = F_{n - 1} + F_{n - 2}
+train_1100	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1076	x_1 \times x_2 \times x_3 \times x_4 = X
+train_258	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1148	((56 \times 52) \div 135) + (34 - (74 \times 92)) \geq -6752
+train_364	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_75	c = \sqrt{a^2+b^2-2ab\cos\gamma}
+train_248	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_581	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1084	6 = 2^1(2^2-1)
+train_1377	3 0 \times 2 9 x^{2 8}
+train_941	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1418	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_354	\frac{1}{a} F \left( a x + b \right) + C
+train_1406	3 0 \times 2 9 x^{2 8}
+train_1865	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_397	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1092	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_201	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_633	x_{i} - x_{i + 1} + x_{i + 2}
+train_2133	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_1030	a + b + c + d + e
+train_886	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_11	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_2239	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_2067	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_645	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_21	x^2+x+1 = 0
+train_1572	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_340	\sin^{2} \theta + \cos^{2} \theta = 1
+train_1530	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1505	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_28	\sin^{2} \theta + \cos^{2} \theta = 1
+train_1452	x_x^x + y_y^y + z_z^z - x - y - z
+train_879	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_429	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_969	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_858	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_2124	\frac{\beta}{\alpha-1}
+train_1704	\frac{1}{a} F \left( a x + b \right) + C
+train_1889	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1720	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1381	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_2059	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1524	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1651	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_1311	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_2134	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_2141	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1635	8y_{i+1}
+train_1659	a + b + c + d + e
+train_1191	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_579	\sin x - \sin y - \sin \left( x - y \right)
+train_1814	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1652	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_675	\sqrt{b^{2} - 4 a c}
+train_842	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_2047	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1145	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_337	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1264	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_1329	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_772	x_{1} + x_{2} = x_{3}
+train_1557	\sqrt{b^{2} - 4 a c}
+train_56	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1258	2^5+2+1
+train_1781	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1067	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_1620	n \log_2 n
+train_1097	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_651	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1228	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_857	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1136	x_{1} + x_{2} = x_{3}
+train_1420	a + b + c + d + e
+train_930	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1825	x+dx
+train_1847	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1322	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_220	\tan z = \frac{\sin z}{\cos z}
+train_1083	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_712	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_694	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1589	\sin^{2} \theta + \cos^{2} \theta = 1
+train_501	x_{i} - x_{i + 1} + x_{i + 2}
+train_2202	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_211	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1284	Y = g(X) = \frac{1}{X}
+train_1296	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_461	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_323	3 0 \times 2 9 x^{2 8}
+train_1819	z_1^2 + 1^z - z_2^2 + 2^z
+train_1002	x^{2} + y^{2} \lt 1
+train_1019	x_1 \times x_2 \times x_3 \times x_4 = X
+train_1082	x_{i} - x_{i + 1} + x_{i + 2}
+train_1473	z^2 - 2z - 1 = 0
+train_1200	 x^{2} \frac{d^{2} y}{d x^{2}} - 3 x \frac{dy}{dx} + y =\frac{\log x \cdot \sin{\log x} + 1}{x} 
+train_1319	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_626	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_769	\tan z = \frac{\sin z}{\cos z}
+train_2090	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_1836	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_2069	\frac{1}{a} F \left( a x + b \right) + C
+train_1556	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_439	ac=1
+train_776	b=a^2+c^2
+train_1276	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_67	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_165	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1205	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_985	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_524	\sqrt{5+2\sqrt{6} }
+train_249	(x_1+y_1\sqrt{n})^k
+train_31	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_843	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_1135	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_1957	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_1428	\lim_{x \rightarrow \infty} \int_0^x e^{- y^2} d y = \frac {\sqrt \pi} 2
+train_117	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1286	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1965	x_{i} - x_{i + 1} + x_{i + 2}
+train_446	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1057	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_238	\log_{2} 8 = 3
+train_1351	\int_a^b \frac {\sqrt x} 2 d x
+train_373	\sin^{2} \theta + \cos^{2} \theta = 1
+train_1837	40 - (134 - (144 \div 154)) \geq -93
+train_145	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_2056	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1915	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_30	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_918	\sqrt{b^{2} - 4 a c}
+train_580	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_893	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1014	\sin^{2} \theta + \cos^{2} \theta = 1
+train_1538	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_966	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_766	y = z x
+train_2026	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_974	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_499	1 \pm 20 - 173
+train_1362	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_872	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_271	x_{1} + x_{2} = x_{3}
+train_348	3 0 \times 2 9 x^{2 8}
+train_708	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_2070	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1479	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1769	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_176	(2-1)
+train_1943	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_1268	\lim_{x \rightarrow \infty} \int_0^x e^{- y^2} d y = \frac {\sqrt \pi} 2
+train_1533	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_641	x_{i} - x_{i + 1} + x_{i + 2}
+train_1021	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_723	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1129	z_1^2 + 1^z - z_2^2 + 2^z
+train_179	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_2191	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_1563	x_{1} + x_{2} = x_{3}
+train_329	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1632	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_754	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1382	x_{i} - x_{i + 1} + x_{i + 2}
+train_1210	2^{17}
+train_710	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_416	x_{1} + x_{2} = x_{3}
+train_1109	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_234	7 \pm (111 \div (28 + 23)) \times ((53 + 187) \times (179 \div 147))
+train_2178	3 0 \times 2 9 x^{2 8}
+train_443	x_{i} - x_{i + 1} + x_{i + 2}
+train_1970	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1858	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1993	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_958	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1239	z_1^2 + 1^z - z_2^2 + 2^z
+train_1103	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_365	((117 \times 54) \div (141 \times 124)) - ((70 \div 193) \div 159) \geq 0
+train_157	\sqrt{b^{2} - 4 a c}
+train_2006	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1303	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1532	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_2186	\lim_{x \rightarrow \infty} \int_0^x e^{- y^2} d y = \frac {\sqrt \pi} 2
+train_1928	0=\frac{d^2 y}{dx^2}
+train_1779	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1660	x_{i} - x_{i + 1} + x_{i + 2}
+train_646	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_2065	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_2216	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_2145	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} + z_{2}
+train_894	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_123	k_n=1
+train_1255	x^n=z
+train_509	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1175	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_699	\tan z = \frac{\sin z}{\cos z}
+train_1551	\int_a^b \frac {\sqrt x} 2 d x
+train_783	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_2101	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1754	\frac{2}{3}n^3
+train_1579	\forall x,y
+train_2060	x_1 \times x_2 \times x_3 \times x_4 = X
+train_1739	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_310	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1163	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_359	\sin x - \sin y - \sin \left( x - y \right)
+train_297	\sqrt{b^{2} - 4 a c}
+train_114	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_854	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_1512	x_x^x + y_y^y + z_z^z - x - y - z
+train_1302	15 \div ((76 \div 10) + (199 - 89)) > 0
+train_301	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1281	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_621	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_100	(166 + (93 \times 67)) - (64 + 127 + 176) \leq 6030
+train_1776	\cos(4a) = 8\cos^4(a) - 8\cos^2(a) +1
+train_678	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1104	x_{i} - x_{i + 1} + x_{i + 2}
+train_1189	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1909	\sqrt{b^{2} - 4 a c}
+train_2180	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_2135	x=\beta_{3}y_{3}+\ldots+\beta_{n+1}y_{n+1}
+train_149	37 \times 45 \geq 1664
+train_596	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_1702	3 0 \times 2 9 x^{2 8}
+train_1665	n = 0
+train_1685	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1037	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_244	172 - 111 - 55 - 187 \neq -83
+train_129	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1606	\int_a^b \frac {\sqrt x} 2 d x
+train_2057	\sin x - \sin y - \sin \left( x - y \right)
+train_2024	a + b + c + d + e
+train_2096	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_147	((26 \div 128) + 50) - (183 \div 29) \neq -6
+train_458	19 \times 7 \leq 133
+train_981	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1116	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1947	e^{i \pi} + 1 = 0
+train_1414	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1108	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_448	3 0 \times 2 9 x^{2 8}
+train_2159	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_2183	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1796	186 \pm 6 + 98 + 176 + 92
+train_758	a + b + c + d + e
+train_1181	x^{2} + y^{2} \lt 1
+train_1123	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1972	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_2043	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1206	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1326	b_{n}-a_{n}
+train_1540	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1578	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1107	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1966	3 0 \times 2 9 x^{2 8}
+train_426	\sin (nx)
+train_619	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_761	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_2139	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_2105	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_589	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_97	x_{i} - x_{i + 1} + x_{i + 2}
+train_543	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_85	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_744	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_137	1 - (-1)^d
+train_725	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_935	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1667	x_x^x + y_y^y + z_z^z - x - y - z
+train_1646	x_4 = -\sqrt{2}
+train_1850	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_2120	(69 + 177 \times 136) + (117 \div 140) > 5612
+train_1124	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_909	\tan z = \frac{\sin z}{\cos z}
+train_1355	3 0 \times 2 9 x^{2 8}
+train_1997	x_x^x + y_y^y + z_z^z - x - y - z
+train_2230	\frac{1}{a} F \left( a x + b \right) + C
+train_57	2^{69}
+train_1461	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_262	x^{2} + y^{2} \lt 1
+train_1278	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_370	2^{18}
+train_1018	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1310	e^{X}e^{Y}
+train_1049	x_1 \times x_2 \times x_3 \times x_4 = X
+train_2224	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1770	\gamma = 1 + \frac{1}{n}
+train_1384	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1860	\int_a^b \frac {\sqrt x} 2 d x
+train_990	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_572	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_833	\frac{\beta}{\alpha-1}
+train_1777	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1843	x^2 + 2x\sqrt{2} + 1
+train_609	x+dx
+train_1805	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1437	x_1 \times x_2 \times x_3 \times x_4 = X
+train_1078	\sqrt{b^{2} - 4 a c}
+train_307	\sin x - \sin y - \sin \left( x - y \right)
+train_729	\sin^{2} \theta + \cos^{2} \theta = 1
+train_1981	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_565	y = \frac{1}{x^2 + 1}
+train_1938	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_41	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1429	\log_{2} 8 = 3
+train_2025	F_{n} = F_{n - 1} + F_{n - 2}
+train_2210	\sin (a - b) = \sin a \cos b - \cos a \sin b
+train_1692	\cos(a+b)= \cos(a) \cos(b) -\sin(a) \sin(b)
+train_1647	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1061	c(0) = 1
+train_400	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_388	a + b + c + d + e
+train_753	\frac{1}{a} F \left( a x + b \right) + C
+train_1822	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_260	0 \pm 145 - 35
+train_1526	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_2217	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1716	3 0 \times 2 9 x^{2 8}
+train_1499	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_983	113 + (168 \div 86) \leq 115
+train_1035	c = \sqrt{a^2+b^2-2ab\cos\gamma}
+train_1316	a + b + c + d + e
+train_887	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_612	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_976	\sin x - \sin y - \sin \left( x - y \right)
+train_861	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1298	(x_1+y_1\sqrt{n})^k
+train_2048	b=a^2+c^2
+train_1182	x_{1} + x_{2} = x_{3}
+train_1925	76 \pm ((41 + 118) \times 124) \times 130
+train_954	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_779	(166 - 122 + 32) + ((106 \div 30) \div (30 \div 18)) \geq 77
+train_679	a^2-2ab
+train_671	\sqrt{b^{2} - 4 a c}
+train_380	\sqrt{b^{2} - 4 a c}
+train_404	\frac{1}{a} F \left( a x + b \right) + C
+train_239	\sin x - \sin y - \sin \left( x - y \right)
+train_381	175 \times (162 \times 103) \leq 2920050
+train_292	\tan z = \frac{\sin z}{\cos z}
+train_562	\sqrt{b^{2} - 4 a c}
+train_984	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1923	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1760	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1050	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_241	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_613	3 0 \times 2 9 x^{2 8}
+train_1036	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_832	n-i
+train_1070	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1734	x_x^x + y_y^y + z_z^z - x - y - z
+train_1195	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_506	\frac{1}{-1} = \frac{-1}{1}
+train_442	\sin x - \sin y - \sin \left( x - y \right)
+train_1810	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_174	x_{1} + x_{2} = x_{3}
+train_540	3 0 \times 2 9 x^{2 8}
+train_436	x_{1} + x_{2} = x_{3}
+train_1300	z=0
+train_1535	\frac{1}{a} F \left( a x + b \right) + C
+train_535	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_1797	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_764	\sin x - \sin y - \sin \left( x - y \right)
+train_1236	 z_{1} = r_{1} ( \cos \theta_{1} + i \sin \theta_{1} ) 
+train_228	(a + c)^2 = 12
+train_1871	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_601	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1568	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_2100	\lim_{x \rightarrow \infty} \int_0^x e^{- y^2} d y = \frac {\sqrt \pi} 2
+train_1550	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_492	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1043	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1162	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_2237	32 \pm 12 \times 15
+train_1253	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_2013	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_636	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_615	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_1085	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_718	3 0 \times 2 9 x^{2 8}
+train_2107	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_647	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1878	\frac{1}{a} F \left( a x + b \right) + C
+train_849	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_4	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_830	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1077	(166 + (93 \times 67)) - (64 + 127 + 176) \leq 6030
+train_2250	199 - 151 = 48
+train_795	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_988	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_163	\frac{9}{5}
+train_702	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_2064	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_349	30 - 180 + 70 \neq 294
+train_1977	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_2248	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_2012	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_2078	x_{1} + x_{2} = x_{3}
+train_284	x^{\frac{1}{2} (1 + \frac{1}{2^2}) (1 + \frac{1}{2^4}) (1 + \frac{1}{2^8})}
+train_800	(z^2 + y_0 - a_0z - b_0)(z^2 + y_0 + a_0z + b_0) = 0
+train_1694	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1488	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_1875	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_317	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_2112	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_2177	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1539	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1746	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_777	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1544	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1235	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_727	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_266	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_883	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_1196	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_798	\tan z = \frac{\sin z}{\cos z}
+train_171	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1771	\sin x - \sin y - \sin \left( x - y \right)
+train_2017	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_2170	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1391	x_x^x + y_y^y + z_z^z - x - y - z
+train_294	3 0 \times 2 9 x^{2 8}
+train_1091	x_x^x + y_y^y + z_z^z - x - y - z
+train_1068	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1449	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_2153	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_2042	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1247	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_875	c^2 = (a-b)^2+2ab
+train_1613	x^{-4}
+train_1794	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_412	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_124	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1588	c_1=a_{11}
+train_1594	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1886	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_54	a + b + c + d + e
+train_534	3 0 \times 2 9 x^{2 8}
+train_2016	\frac{1}{a} F \left( a x + b \right) + C
+train_1678	3 0 \times 2 9 x^{2 8}
+train_1213	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1542	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_15	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_1768	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_2168	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1561	12 + 138 + 144 + 73 > 45
+train_1173	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1574	x_{i} - x_{i + 1} + x_{i + 2}
+train_2247	67 - 132 - 181 - 194 = -52
+train_1863	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1605	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_550	\sin x - \sin y - \sin \left( x - y \right)
+train_427	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1566	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_184	\frac{1}{a} F \left( a x + b \right) + C
+train_2080	x_{(k)}
+train_840	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_611	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_64	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_964	\sin^{2} \theta + \cos^{2} \theta = 1
+train_2001	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_650	\frac{1}{a} F \left( a x + b \right) + C
+train_1373	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_677	x_{1} + x_{2} = x_{3}
+train_78	\log_{2} 8 = 3
+train_1780	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1054	76 \pm (102 + 150) \times 56
+train_1119	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1166	z_1^2 + 1^z - z_2^2 + 2^z
+train_2198	x_{1} + x_{2} = x_{3}
+train_1374	3a + 2 \leq 5
+train_1394	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_1314	x^{2} + y^{2} \lt 1
+train_221	(a + b)^2 = a^2 + 2ab + b^2
+train_989	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_740	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1664	x_x^x + y_y^y + z_z^z - x - y - z
+train_387	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1591	m_1, m_2, m_3
+train_1403	\sqrt{b^{2} - 4 a c}
+train_2119	3 0 \times 2 9 x^{2 8}
+train_140	x - n
+train_566	\frac{2}{3}n^3
+train_1793	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1275	7 \pm (111 \div (28 + 23)) \times ((53 + 187) \times (179 \div 147))
+train_1267	a_{n}=n^{-\beta}
+train_1026	x_{i} - x_{i + 1} + x_{i + 2}
+train_1125	\frac{1}{500}
+train_953	z_1^2 + 1^z - z_2^2 + 2^z
+train_2157	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_654	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_256	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1649	(51 - 53 + 31) - ((186 \times 21) \times (161 \div 103)) \neq -8248
+train_819	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_676	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_584	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1897	58 + 4 \geq 61
+train_1353	10^{64}
+train_216	y(0) = \alpha_1
+train_393	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_217	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1728	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_1115	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1555	((24 - 44) \times 61) - (64 \div (196 + 162)) > -992
+train_2085	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_905	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_551	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1623	3 0 \times 2 9 x^{2 8}
+train_1973	z_1^2 + 1^z - z_2^2 + 2^z
+train_1881	x_{1} + x_{2} = x_{3}
+train_2018	x_{1} + x_{2} = x_{3}
+train_1470	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_166	\sin^{2} \theta + \cos^{2} \theta = 1
+train_27	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_971	a + b + c + d + e
+train_1600	148 - 141 \neq -4
+train_1079	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_517	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_541	y=x^{n}
+train_1978	\frac{1}{a} F \left( a x + b \right) + C
+train_709	(18 + 22) \div 92 \neq 0
+train_866	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1995	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_413	\sin x - \sin y - \sin \left( x - y \right)
+train_1812	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_576	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1328	151 \pm 143 \div 97
+train_1396	\int_a^b \frac {\sqrt x} 2 d x
+train_1317	n^{\log_2(3)}
+train_449	\sin x - \sin y - \sin \left( x - y \right)
+train_1803	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_571	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_775	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1357	12 \pm ((29 \times 6) + 22) + ((47 \times 133) - (86 - 187))
+train_1806	((98 + 150) + (76 \div 16)) + ((97 \div 92) \times 151) \neq 326
+train_1991	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_760	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_929	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_2235	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_500	a + b + c + d + e
+train_50	a+c=b
+train_1422	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_903	32 \pm 12 \times 15
+train_1518	((31 \div 52) - (21 \div 120)) \times 102 \geq 42
+train_911	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_2243	\tan z = \frac{\sin z}{\cos z}
+train_181	3 0 \times 2 9 x^{2 8}
+train_299	x^3 = 18x + 35
+train_553	a + b + c + d + e
+train_319	\theta = \frac {n \times 360} {60 \times 1000}
+train_2072	(g^{-1})^{ij}
+train_1242	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_965	\sin x - \sin y - \sin \left( x - y \right)
+train_1185	 \lim_{n \rightarrow \infty} \frac{1}{n} \sum f ( \frac{r}{n} ) = \int_{0}^{1} f ( x ) dx 
+train_2254	\gamma = \pi-\alpha-\beta
+train_2136	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_2061	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1425	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_846	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_864	2^{50}
+train_392	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1397	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_331	x_{i} - x_{i + 1} + x_{i + 2}
+train_997	a+c=b
+train_780	\sqrt{b^{2} - 4 a c}
+train_1648	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_979	\log_{2} 8 = 3
+train_1496	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_17	n\times d
+train_899	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_554	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_45	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_37	\sin x - \sin y - \sin \left( x - y \right)
+train_351	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_253	x=\phi_{ki}(z)
+train_1927	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_868	3 0 \times 2 9 x^{2 8}
+train_1564	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1509	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1955	1+2+3+\ldots+(n-1)+n
+train_485	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_713	\log_{2} 8 = 3
+train_1593	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_2147	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_1809	z_1^2 + 1^z - z_2^2 + 2^z
+train_104	x_{i} - x_{i + 1} + x_{i + 2}
+train_784	\sin x - \sin y - \sin \left( x - y \right)
+train_1695	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1545	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_2033	x_x^x + y_y^y + z_z^z - x - y - z
+train_1765	z_1^2 + 1^z - z_2^2 + 2^z
+train_1260	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_63	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1254	x_{i} - x_{i + 1} + x_{i + 2}
+train_1884	 \lim_{n \rightarrow \infty} t_{3n} = \frac{1}{2} \log 2 
+train_2046	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1743	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_2208	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_1817	x_1 \times x_2 \times x_3 \times x_4 = X
+train_2220	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_352	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_837	x_{1} + x_{2} = x_{3}
+train_2062	3 0 \times 2 9 x^{2 8}
+train_2138	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_860	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1217	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_81	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_546	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1154	\frac{1}{a} F \left( a x + b \right) + C
+train_1058	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_952	x^2+x+1 = 0
+train_372	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1007	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_1792	x_1 \times x_2 \times x_3 \times x_4 = X
+train_1432	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_476	(-a)^n = a^n
+train_1345	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1916	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_250	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_578	\gamma = 1 + \frac{1}{n}
+train_2228	(2 + 3i)
+train_862	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1670	59 + 53 \neq -65
+train_1005	3 0 \times 2 9 x^{2 8}
+train_1221	y \neq x
+train_802	4^2 = 2^4
+train_328	y(\phi)
+train_287	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_280	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1983	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_399	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1465	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_94	\gamma_{jk}
+train_701	100 \pm 15 \times 16
+train_1536	ax + by + cz + d=0
+train_660	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1708	3 0 \times 2 9 x^{2 8}
+train_891	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1697	\sqrt{5+2\sqrt{6} }
+train_570	x^5+x+a
+train_275	\sin x - \sin y - \sin \left( x - y \right)
+train_717	x_{i} - x_{i + 1} + x_{i + 2}
+train_1460	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1426	\sin^{2} \theta + \cos^{2} \theta = 1
+train_2227	3 0 \times 2 9 x^{2 8}
+train_806	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1749	\sqrt{b^{2} - 4 a c}
+train_92	c(0) = 1
+train_2156	x_1 \times x_2 \times x_3 \times x_4 = X
+train_1872	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_82	x_{i} - x_{i + 1} + x_{i + 2}
+train_1223	\sqrt{b^{2} - 4 a c}
+train_1576	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_1558	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_61	\sin^{2} \theta + \cos^{2} \theta = 1
+train_614	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_401	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_642	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_2137	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_521	\cos(a+b)= \cos(a) \cos(b) -\sin(a) \sin(b)
+train_2143	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1256	\tan z = \frac{\sin z}{\cos z}
+train_451	c_1=a_{11}
+train_2197	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_900	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_293	10^{64}
+train_459	3 0 \times 2 9 x^{2 8}
+train_885	\sin (a - b) = \sin a \cos b - \cos a \sin b
+train_2146	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_95	y_1(x) = x^2
+train_901	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_695	\frac{a^2}{b^2} = a^k
+train_1052	\frac{1}{a} F \left( a x + b \right) + C
+train_692	0=\frac{d^2 y}{dx^2}
+train_1693	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_1952	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1045	x_1 \times x_2 \times x_3 \times x_4 = X
+train_1369	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_2174	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_739	3 0 \times 2 9 x^{2 8}
+train_2238	b = \sqrt{2}
+train_1157	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1799	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_917	\gamma = \pi-\alpha-\beta
+train_1609	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_2128	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1341	\sqrt{b^{2} - 4 a c}
+train_2023	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1484	175 \times (162 \times 103) \leq 2920050
+train_1493	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_207	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1172	z_1^2 + 1^z - z_2^2 + 2^z
+train_1679	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1495	4, 2, 1
+train_1102	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_2034	\sin x - \sin y - \sin \left( x - y \right)
+train_1339	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_836	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_153	\frac{1}{\log_a(b)}
+train_1559	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_2195	x_1 \times x_2 \times x_3 \times x_4 = X
+train_2131	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_243	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_525	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_1433	\frac{1}{a} F \left( a x + b \right) + C
+train_1764	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_180	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1372	f+g
+train_880	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_2049	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_192	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_2040	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_2172	\exists x
+train_2244	F_{n} = F_{n - 1} + F_{n - 2}
+train_2201	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_757	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_608	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_652	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_162	\frac{y_2x_2-y_1x_1}{n}
+train_1597	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_245	0 \pm 52 \times (169 + 196 - 58)
+train_2200	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1133	1 - (-1)^d
+train_1183	\int_a^b \frac {\sqrt x} 2 d x
+train_1006	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_425	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_874	ax^{2} + 2bx + c = 0
+train_1701	60 - 136 \geq -76
+train_378	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1111	k_n=1
+train_1510	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1168	\frac{9}{5}
+train_2091	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1010	2^{69}
+train_1783	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_315	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1487	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1080	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_2093	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_236	x_{i} - x_{i + 1} + x_{i + 2}
+train_357	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_36	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1098	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_869	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_1105	(n-1)2^{n-4}
+train_135	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_538	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1072	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_587	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_1622	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_1669	\frac{1}{-1} = \frac{-1}{1}
+train_90	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_823	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1674	z_1^2 + 1^z - z_2^2 + 2^z
+train_2144	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_2204	\int_a^b \frac {\sqrt x} 2 d x
+train_80	120 - 14 - 107 \leq 213
+train_12	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1726	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_2113	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1347	69 + ((112 - 46) / 126) > 61
+train_1442	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_1994	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_32	x_{i} - x_{i + 1} + x_{i + 2}
+train_1412	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_674	\alpha_{n + 1} - 3 \beta = \frac{2}{3} a_{n} + \beta - 3 \beta
+train_183	\sqrt{b^{2} - 4 a c}
+train_1297	x_1 \times x_2 \times x_3 \times x_4 = X
+train_164	x^3 + 3x^2\sqrt{3} - 3x - \sqrt{3}
+train_1	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_852	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_915	x_{1} + x_{2} = x_{3}
+train_1142	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_339	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_1587	a + b + c + d + e
+train_210	n \log(n)
+train_1360	\sqrt{b^{2} - 4 a c}
+train_224	F_{n} = F_{n - 1} + F_{n - 2}
+train_1873	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1179	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1582	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1598	19 \times 7 \leq 133
+train_1982	x_x^x + y_y^y + z_z^z - x - y - z
+train_68	x_{i} - x_{i + 1} + x_{i + 2}
+train_2011	\sin x - \sin y - \sin \left( x - y \right)
+train_1961	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1959	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1219	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1658	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_1291	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_2098	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_309	\sin(- x) = -\sin(x)
+train_592	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_259	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_332	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_305	3a + 2 \leq 5
+train_2171	e^{i \pi} + 1 = 0
+train_440	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1718	102 + 72 \geq 173
+train_555	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_99	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1232	\sin x - \sin y - \sin \left( x - y \right)
+train_1112	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1800	y= y_0+t^mY
+train_2245	x_1 \times x_2 \times x_3 \times x_4 = X
+train_945	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_1577	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_131	x^2 - x - 1 = 0
+train_999	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_2081	4^2 = 2^4
+train_1150	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_316	\frac{1}{a} F \left( a x + b \right) + C
+train_1918	\frac{1}{a} F \left( a x + b \right) + C
+train_103	x_{i} - x_{i + 1} + x_{i + 2}
+train_455	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_686	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_2203	x_1 \times x_2 \times x_3 \times x_4 = X
+train_1313	\frac{1}{10}
+train_1203	\sqrt{b^{2} - 4 a c}
+train_914	199 - 151 = 48
+train_59	x_{1} + x_{2} = x_{3}
+train_2127	146 \times (101 + 157 - 181) = 11242
+train_627	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_575	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_599	((98 + 150) + (76 \div 16)) + ((97 \div 92) \times 151) \neq 326
+train_1494	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1735	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_1917	26 \pm (109 + 119 - 82) \div ((169 - 123) + (20 \div 175))
+train_1257	(a + b)^2 = a^2 + 2ab + b^2
+train_1413	y(\phi)
+train_1922	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_818	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_2251	x_{1} + x_{2} = x_{3}
+train_1287	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_2028	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_450	a + b + c + d + e
+train_2142	\sin x - \sin y - \sin \left( x - y \right)
+train_2140	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1698	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_1409	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1595	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_1789	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_1016	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_968	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_991	42 - 85 - 18 \geq -25
+train_1869	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_445	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_1882	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_1327	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_1364	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1712	1 - 1 + 1 - 1 + \ldots
+train_838	a + b + c + d + e
+train_456	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_154	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_657	x_{1} + x_{2} = x_{3}
+train_719	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1128	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_1504	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_734	\pm i a
+train_1514	\forall x\in X,(\alpha f)(x) = \alpha f(x)
+train_1709	x_x^x + y_y^y + z_z^z - x - y - z
+train_659	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1662	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_495	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_2021	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_1003	a + b + c + d + e
+train_920	7 \times 154 \neq -1362
+train_1903	x_{1} + x_{2} = x_{3}
+train_889	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1798	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1570	ac=1
+train_513	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1071	x_{i} - x_{i + 1} + x_{i + 2}
+train_368	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_2092	\frac1{n^{k+2}}
+train_494	x_4 = -\sqrt{2}
+train_141	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_972	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_531	x_{1} + x_{2} = x_{3}
+train_325	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_469	F_{n} = F_{n - 1} + F_{n - 2}
+train_2129	x_{1} + x_{2} = x_{3}
+train_765	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_478	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_335	\sin x - \sin y - \sin \left( x - y \right)
+train_1447	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1211	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_1954	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_583	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_877	x_{1} + x_{2} = x_{3}
+train_683	\frac{1}{a} F \left( a x + b \right) + C
+train_1866	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1169	x^3 + 3x^2\sqrt{3} - 3x - \sqrt{3}
+train_1062	F_{n} = F_{n - 1} + F_{n - 2}
+train_453	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1143	\sum_0^\infty \frac{1}{n^2}
+train_1161	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_1269	(a + c)^2 = 12
+train_1193	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1451	3 0 \times 2 9 x^{2 8}
+train_948	n\times d
+train_193	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_389	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1031	a + b + c + d + e
+train_1666	 A \cdot ( B + C ) = A \cdot B + A \cdot C 
+train_751	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_482	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1378	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_533	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1330	\sin x - \sin y - \sin \left( x - y \right)
+train_1093	e = 2
+train_390	\frac{1}{a} F \left( a x + b \right) + C
+train_1293	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1299	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_2126	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_116	a + b + c + d + e
+train_1908	\alpha_{n + 1} - 3 \beta = \frac{2}{3} a_{n} + \beta - 3 \beta
+train_1024	a + b + c + d + e
+train_1874	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_254	(n+3)
+train_26	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_321	\sqrt{b^{2} - 4 a c}
+train_502	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1900	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_2169	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_519	\frac{1}{a} F \left( a x + b \right) + C
+train_1707	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1478	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_285	\sqrt{b^{2} - 4 a c}
+train_1619	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_2151	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1641	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1744	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_2094	\log_{2} 8 = 3
+train_237	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1137	x - n
+train_781	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1985	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_1368	z_1^2 + 1^z - z_2^2 + 2^z
+train_1044	x_{i} - x_{i + 1} + x_{i + 2}
+train_480	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_51	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1715	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_48	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1004	z_1^2 + 1^z - z_2^2 + 2^z
+train_2196	x_x^x + y_y^y + z_z^z - x - y - z
+train_1729	\sin x - \sin y - \sin \left( x - y \right)
+train_463	a + b + c + d + e
+train_561	\sin x - \sin y - \sin \left( x - y \right)
+train_452	\sin^{2} \theta + \cos^{2} \theta = 1
+train_791	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_755	x_{1} + x_{2} = x_{3}
+train_1188	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1946	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_2184	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_926	\theta_2=\theta
+train_1688	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1194	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_666	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_1756	3 0 \times 2 9 x^{2 8}
+train_994	x_1 \times x_2 \times x_3 \times x_4 = X
+train_606	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_358	x_{1} + x_{2} = x_{3}
+train_488	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_2015	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1485	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_902	y_{1} + y_{3} = \sqrt{z_{2}}
+train_1308	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1149	x_{i} - x_{i + 1} + x_{i + 2}
+train_2176	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_49	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1828	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_655	x_{i} - x_{i + 1} + x_{i + 2}
+train_1686	\int_a^b \frac {\sqrt x} 2 d x
+train_1020	((84 / 113) / 51) - 119 = -118.99
+train_2077	\tan z = \frac{\sin z}{\cos z}
+train_933	\sin x - \sin y - \sin \left( x - y \right)
+train_815	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1511	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1069	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_2089	x_x^x + y_y^y + z_z^z - x - y - z
+train_1224	 A . B = ( A_{1} i + A_{2} j + A_{3} k ) . ( B_{1} i + B_{2} j + B_{3} k ) 
+train_2055	6a^2
+train_1676	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_827	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_811	\log_{2} 8 = 3
+train_1615	\sqrt{b^{2} - 4 a c}
+train_1621	((126 \div 185) \times (59 + 139)) - 59 > 0
+train_1631	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1537	\frac{1}{3}\frac{1}{3}\gamma
+train_1012	x_{1} + x_{2} = x_{3}
+train_882	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1475	\frac{1}{a} F \left( a x + b \right) + C
+train_1383	179 \times ((10 - 77) \times (21 + 102)) \geq -1475139
+train_638	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1992	x_{i} - x_{i + 1} + x_{i + 2}
+train_1086	x_{i} - x_{i + 1} + x_{i + 2}
+train_1361	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_379	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_2155	192 - 166 \neq 12
+train_1608	\lim_{x \rightarrow \infty} \int_0^x e^{- y^2} d y = \frac {\sqrt \pi} 2
+train_219	x^n=z
+train_2194	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1616	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_87	\frac{1}{a} F \left( a x + b \right) + C
+train_1937	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1816	a + b + c + d + e
+train_350	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_1214	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1552	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_1531	\sin x - \sin y - \sin \left( x - y \right)
+train_932	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_421	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_848	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} + z_{2}
+train_2223	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_218	x_{i} - x_{i + 1} + x_{i + 2}
+train_544	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1279	\log_{2} 8 = 3
+train_1095	\sqrt{b^{2} - 4 a c}
+train_1283	\lim_{x \rightarrow \infty} \int_0^x e^{- y^2} d y = \frac {\sqrt \pi} 2
+train_2256	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_1389	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_345	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_38	\sqrt{b^{2} - 4 a c}
+train_1668	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_134	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1238	\sqrt{2+\sqrt{2}}
+train_931	x_{1} + x_{2} = x_{3}
+train_2122	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_605	\sin x - \sin y - \sin \left( x - y \right)
+train_564	a + b + c + d + e
+train_1960	e^{i \pi} + 1 = 0
+train_0	7 \times 154 \neq -1362
+train_1683	z_1^2 + 1^z - z_2^2 + 2^z
+train_825	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1969	a^2 - 2ab = (a - b)^2 - b^2
+train_1486	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_738	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_383	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_569	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1604	a + b + c + d + e
+train_212	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1820	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1167	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1773	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1289	0 \pm 52 \times (169 + 196 - 58)
+train_1831	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_60	n-1
+train_9	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_617	y = \frac{1}{x}
+train_232	(\gamma )
+train_1855	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_182	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_2079	(z^2 + y_0 - a_0z - b_0)(z^2 + y_0 + a_0z + b_0) = 0
+train_1288	172 - 111 - 55 - 187 \neq -83
+train_1216	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1585	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_1848	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_1599	3 0 \times 2 9 x^{2 8}
+train_1106	x^{2} + y^{2} \lt 1
+train_313	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1990	\pm i a
+train_1474	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_1724	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1986	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_318	\frac{1}{a} F \left( a x + b \right) + C
+train_1349	e^{i \pi} + 1 = 0
+train_1472	10 + 67 \leq 77
+train_65	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_2246	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_2114	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1853	\int_a^b \frac {\sqrt x} 2 d x
+train_1400	\frac{1}{a} F \left( a x + b \right) + C
+train_2003	\sqrt{1+x}
+train_139	x_{1} + x_{2} = x_{3}
+train_763	a + b + c + d + e
+train_523	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_268	a + b + c + d + e
+train_177	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_33	a + b + c + d + e
+train_700	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_261	\frac{1}{10}
+train_1950	(18 + 22) \div 92 \neq 0
+train_281	x_{i} - x_{i + 1} + x_{i + 2}
+train_1830	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1628	x_x^x + y_y^y + z_z^z - x - y - z
+train_1344	a + b + c + d + e
+train_736	x_{i} - x_{i + 1} + x_{i + 2}
+train_2109	\frac{\sqrt{3}}{4}
+train_942	\sin^{2} \theta + \cos^{2} \theta = 1
+train_828	(x + 1) (8x^3 - 4x^2 - 4x + 1)=0
+train_178	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_159	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_363	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_624	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_490	\sqrt{1+\frac{1}{\sqrt{2}}} +\sqrt{1-\frac{1}{\sqrt{2}}}
+train_1979	\sin^{2} \theta + \cos^{2} \theta = 1
+train_2009	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_2052	x_1 \times x_2 \times x_3 \times x_4 = X
+train_7	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_1521	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_547	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1839	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_1415	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_1065	y_1(x) = x^2
+train_648	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_568	\sqrt{b^{2} - 4 a c}
+train_1534	x_{1} + x_{2} = x_{3}
+train_1673	x_{1} + x_{2} = x_{3}
+train_1637	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1525	a + b + c + d + e
+train_2	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_923	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_88	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_956	\phi(x)
+train_295	12 \pm ((29 \times 6) + 22) + ((47 \times 133) - (86 - 187))
+train_1498	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1001	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1436	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_662	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_498	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_585	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_940	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_230	(81 + (38 + 107)) \div 151 \leq 78
+train_1051	10^{-12}
+train_667	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_844	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_432	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1445	\sin^{2} \theta + \cos^{2} \theta = 1
+train_1971	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1740	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1151	\frac{1}{\log_a(b)}
+train_1854	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_1401	\theta = \frac {n \times 360} {60 \times 1000}
+train_2084	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1722	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_661	\tan z = \frac{\sin z}{\cos z}
+train_437	189 \pm 159 \times (50 \times 99)
+train_841	x=\beta_{3}y_{3}+\ldots+\beta_{n+1}y_{n+1}
+train_1634	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_151	x_{i} - x_{i + 1} + x_{i + 2}
+train_167	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1684	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1454	x_{1} + x_{2} = x_{3}
+train_711	1+2+3+\ldots+(n-1)+n
+train_1677	e^{i \pi} + 1 = 0
+train_1963	r=\sqrt{\theta}
+train_1700	x_x^x + y_y^y + z_z^z - x - y - z
+train_1856	x_{i} - x_{i + 1} + x_{i + 2}
+train_1569	f(x) = X^2 - 4X - 5
+train_1315	F_{n} = F_{n - 1} + F_{n - 2}
+train_944	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_2000	4 \div 182 = 0.02
+train_382	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_785	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_312	179 \times ((10 - 77) \times (21 + 102)) \geq -1475139
+train_1365	x_x^x + y_y^y + z_z^z - x - y - z
+train_474	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_2083	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1638	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_347	2^n-1
+train_1867	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_503	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_1515	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_845	\sin x - \sin y - \sin \left( x - y \right)
+train_622	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_962	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_185	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_333	\frac{1}{a} F \left( a x + b \right) + C
+train_1883	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_620	40 - (134 - (144 \div 154)) \geq -93
+train_2185	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_1201	3 0 \times 2 9 x^{2 8}
+train_1586	\sin x - \sin y - \sin \left( x - y \right)
+train_355	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_767	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_950	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1271	(81 + (38 + 107)) \div 151 \leq 78
+train_1138	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_822	\frac{\sqrt{3}}{4}
+train_1348	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_1859	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_14	\sin^{2} \theta + \cos^{2} \theta = 1
+train_750	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_2116	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_136	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1015	x_1 \times x_2 \times x_3 \times x_4 = X
+train_6	x_{1} + x_{2} = x_{3}
+train_1741	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1144	((26 \div 128) + 50) - (183 \div 29) \neq -6
+train_2103	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_2041	\tan z = \frac{\sin z}{\cos z}
+train_705	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_527	60 - 136 \geq -76
+train_924	x_x^x + y_y^y + z_z^z - x - y - z
+train_457	x^{2} + y^{2} \lt 1
+train_1053	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1171	\sin^{2} \theta + \cos^{2} \theta = 1
+train_1402	n^2 - n + 41
+train_1775	\forall t \in (0,1)
+train_1338	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_644	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_1818	\sin x - \sin y - \sin \left( x - y \right)
+train_360	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1730	z_1^2 + 1^z - z_2^2 + 2^z
+train_487	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_161	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_1583	3 0 \times 2 9 x^{2 8}
+train_1949	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_1060	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_2213	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_156	\frac{1}{a} F \left( a x + b \right) + C
+train_1165	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_689	76 \pm ((41 + 118) \times 124) \times 130
+train_1614	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1233	x_1 \times x_2 \times x_3 \times x_4 = X
+train_1099	\int_a^b \frac {\sqrt x} 2 d x
+train_1059	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_1690	\frac{1}{a} F \left( a x + b \right) + C
+train_2132	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1398	z_1^2 + 1^z - z_2^2 + 2^z
+train_2199	a + b + c + d + e
+train_410	x \times (- \infty)
+train_663	\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x
+train_1650	z_1^2 + 1^z - z_2^2 + 2^z
+train_2233	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_2123	n-i
+train_424	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1153	(29 - 24 + 169) \times 88 \leq -14431
+train_1025	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_405	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1227	\frac{x^2+y^2}{a^2}-\frac{z^2}{c^2}-1=0
+train_1280	\sin x - \sin y - \sin \left( x - y \right)
+train_395	F_{n} = F_{n - 1} + F_{n - 2}
+train_1549	3 = \sqrt{6+\sqrt{6+\sqrt{6+\sqrt{6+\ldots}}}}
+train_1243	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1795	z_1^2 + 1^z - z_2^2 + 2^z
+train_1424	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_2110	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_302	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_197	\sqrt{b^{2} - 4 a c}
+train_630	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1821	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_786	3 0 \times 2 9 x^{2 8}
+train_121	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_1301	z_1^2 + 1^z - z_2^2 + 2^z
+train_191	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_98	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_670	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1202	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1575	10^n - k
+train_560	x^{2} + y^{2} \lt 1
+train_1411	83 \pm ((179 \div 23) - (149 + 151)) \div 88
+train_1626	\frac{1}{a} F \left( a x + b \right) + C
+train_1230	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1248	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1497	a + b + c + d + e
+train_398	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_2010	\sin x - \sin y - \sin \left( x - y \right)
+train_639	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_481	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_904	b = \sqrt{2}
+train_937	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_1672	\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}
+train_987	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1984	(72 \div 151) \div (10 \times 152) \leq 0
+train_1160	x_{1} + x_{2} = x_{3}
+train_1528	x \times (- \infty)
+train_1904	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1466	x_x^x + y_y^y + z_z^z - x - y - z
+train_1656	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_741	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1654	z_1^2 + 1^z - z_2^2 + 2^z
+train_1363	x^3 = 18x + 35
+train_1813	x_1 \times x_2 \times x_3 \times x_4 = X
+train_1342	78 \pm 5 \times 47
+train_1784	k_1,\ldots,k_m
+train_2173	2^{50}
+train_2035	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_2193	c^2 = (a-b)^2+2ab
+train_208	\frac{(e^{i x} - e^{-i x})}{2} = i \sin(x)
+train_1073	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1241	\frac{(e^{i x} - e^{-i x})}{2} = i \sin(x)
+train_419	\frac{1}{3}\frac{1}{3}\gamma
+train_190	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_623	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1491	3 0 \times 2 9 x^{2 8}
+train_2188	x_x^x + y_y^y + z_z^z - x - y - z
+train_1041	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_1774	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_2212	x_1 \times x_2 \times x_3 \times x_4 = X
+train_1527	\sqrt{b^{2} - 4 a c}
+train_913	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_1404	\int \left( 2^{x} - 3 e^{x} \right) d_{x}
+train_1340	x^{\frac{1}{2} (1 + \frac{1}{2^2}) (1 + \frac{1}{2^4}) (1 + \frac{1}{2^8})}
+train_792	\frac{1}{a} F \left( a x + b \right) + C
+train_422	x_{i} - x_{i + 1} + x_{i + 2}
+train_787	\theta + \pi
+train_1624	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1438	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_106	6 = 2^1(2^2-1)
+train_353	\sin^{2} \theta + \cos^{2} \theta = 1
+train_304	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1705	x_{1} + x_{2} = x_{3}
+train_1868	x_{i} - x_{i + 1} + x_{i + 2}
+train_1324	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_978	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_291	2^{n(n - 1)}
+train_616	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_152	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_1028	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_24	x^{2} + y^{2} \lt 1
+train_1907	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_820	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1967	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_110	F_{n} = F_{n - 1} + F_{n - 2}
+train_434	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_112	\sqrt{b^{2} - 4 a c}
+train_43	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_722	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_414	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_1930	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1899	A = \sqrt {a + \frac 1 {\sqrt {a + \frac 1 {\sqrt a}}}} + \sqrt b
+train_1164	\frac{y_2x_2-y_1x_1}{n}
+train_1094	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_1829	3 0 \times 2 9 x^{2 8}
+train_1644	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1935	\tan z = \frac{\sin z}{\cos z}
+train_1110	x^4 - 4x^3\sqrt{2} + 2x^2 + 4x\sqrt{2}+ 1
+train_2231	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_632	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_2075	y^2=\frac{x^3}{2a-x}
+train_1725	\int_a^b \frac {\sqrt x} 2 d x
+train_288	a + b + c + d + e
+train_1477	x^{i + 2 j \times k^{3} - \frac{j}{2 i}}
+train_1546	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_2099	\pi \int_c^d \{ g ( y ) \}^2 d y
+train_311	x_{i} - x_{i + 1} + x_{i + 2}
+train_1845	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1612	F_{n} = F_{n - 1} + F_{n - 2}
+train_598	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
+train_270	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_242	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_34	3 0 \times 2 9 x^{2 8}
+train_1277	x_{i} - x_{i + 1} + x_{i + 2}
+train_1208	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_246	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_1877	\frac{b-a}{n}\leq\alpha
+train_146	\sum_0^\infty \frac{1}{n^2}
+train_251	z=0
+train_155	(29 - 24 + 169) \times 88 \leq -14431
+train_1285	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_1980	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_2115	z_1^2 + 1^z - z_2^2 + 2^z
+train_1482	z_1^2 + 1^z - z_2^2 + 2^z
+train_2161	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_1714	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_438	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1304	x=\phi_{ki}(z)
+train_733	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_213	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1787	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1522	x_{i} - x_{i + 1} + x_{i + 2}
+train_386	3 0 \times 2 9 x^{2 8}
+train_1198	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_475	3 0 \times 2 9 x^{2 8}
+train_263	F_{n} = F_{n - 1} + F_{n - 2}
+train_2087	\int_a^b \frac {\sqrt x} 2 d x
+train_1827	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1450	\int_{\log 3}^0 \frac 1 {e^t + 1} d t
+train_257	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_423	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1376	\sin x - \sin y - \sin \left( x - y \right)
+train_1295	\forall x \in X
+train_1390	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_74	\cos(2x)=\cos^2(x)-\sin^2(x)
+train_1870	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_2039	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1265	x_{i} - x_{i + 1} + x_{i + 2}
+train_2104	21-5\sqrt{21} + (15\sqrt{7}-21\sqrt{3})i
+train_493	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_927	A = \sqrt{a + \frac{1}{\sqrt{a + \frac{1}{\sqrt{a}}}}} + \sqrt{b}
+train_508	x_{1} + x_{2} = x_{3}
+train_507	59 + 53 \neq -65
+train_1989	z_1^2 + 1^z - z_2^2 + 2^z
+train_143	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_752	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1430	z_1^2 + 1^z - z_2^2 + 2^z
+train_1501	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1804	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_928	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1033	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1892	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_1399	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_1190	x_x^x + y_y^y + z_z^z - x - y - z
+train_1457	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_473	n \log_2 n
+train_1204	\frac{1}{a} F \left( a x + b \right) + C
+train_338	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1625	(-a)^n = a^n
+train_939	[ \frac 2 3 x^{\frac 3 2} ]_0^1
+train_148	\sin x - \sin y - \sin \left( x - y \right)
+train_960	x^{2} + y^{2} \lt 1
+train_433	\sqrt{b^{2} - 4 a c}
+train_2095	e^{i \pi} + 1 = 0
+train_1610	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1936	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1187	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1237	(2-1-1)
+train_2014	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_814	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1541	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_83	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1808	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1245	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_1663	y = \frac { 1}{Y}
+train_2164	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1040	\log_{2} 8 = 3
+train_470	x^{-4}
+train_2179	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_1419	\frac{1}{a} F \left( a x + b \right) + C
+train_1748	\sin x - \sin y - \sin \left( x - y \right)
+train_746	\sin x - \sin y - \sin \left( x - y \right)
+train_716	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_831	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_921	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1910	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_273	151 \pm 143 \div 97
+train_1170	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_2008	x_x^x + y_y^y + z_z^z - x - y - z
+train_1921	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_951	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_205	(2-1-1)
+train_1653	3n-5
+train_1140	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_2192	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_2058	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1958	\log_{2} 8 = 3
+train_607	\int \left( 2^{x} - 3 e^{x} \right) d x
+train_515	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1410	\sum_{i = 2 n + 3 m}^{1 0} i x
+train_1711	e^{i \pi} + 1 = 0
+train_1584	x_x^x + y_y^y + z_z^z - x - y - z
+train_2088	\sqrt {1 + \sqrt {2 + \sqrt {3 + \sqrt 4}}}
+train_788	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_77	\sin(x)
+train_1580	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_109	e^{i \pi} + 1 = 0
+train_735	\left( x^{3} - x^{2} - x \right) \left( 2 x - 7 \right)
+train_1226	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_730	(72 \div 151) \div (10 \times 152) \leq 0
+train_20	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_768	1 + \frac{1}{1 !} + \frac{1}{2 !} + \frac{1}{3 !} + \frac{1}{4 !}
+train_1710	a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !
+train_1573	\sin x - \sin y - \sin \left( x - y \right)
+train_1894	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_47	\cos x + i \sin x=e^{ix}
+train_602	\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}
+train_793	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_1008	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_2029	e = \sum^{\infty}_{k = 0} \frac{1}{k !}
+train_855	\sin x - \sin y - \sin \left( x - y \right)
+train_483	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1846	b_0=1
+train_1826	x_2 = \frac{-1+i\sqrt{7}}{2}
+train_1427	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1333	-\frac{1}{\pi}
+train_559	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_420	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_863	e^{i \pi} + 1 = 0
+train_189	\alpha_{n + 1} - 3 \beta = \frac{2}{3} \alpha_{n} + \beta - 3 \beta
+train_2053	\sqrt{b^{2} - 4 a c}
+train_1975	\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}
+train_25	x^{2} + 2x + 1 = 0
+train_13	\sqrt{1 + \sqrt{2 + \sqrt{3 + \sqrt{4}}}}
+train_120	x^{2} + y^{2} \lt 1
+train_747	\sin x - \sin y - \sin \left( x - y \right)
+train_320	n^2 - n + 41
+train_656	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1766	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_1346	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1459	x_{1} + x_{2} = x_{3}
+train_107	x_{i} - x_{i + 1} + x_{i + 2}
+train_1529	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1407	[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}
+train_1876	\frac{2 \tan \alpha}{1 - \tan^{2} \alpha}
+train_1964	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_314	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_595	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_1838	\frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}
+train_1274	\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}
+train_69	\lim_{x \rightarrow \frac{\pi}{2} + 0} \tan x = - \infty
+train_545	x = \frac{- b \pm \sqrt{b^{2} - 4 a c}}{2 a}
+train_3	\theta_2=\theta
+train_1042	120 - 14 - 107 \leq 213
+train_881	\tan z = \frac{\sin z}{\cos z}
+train_577	\frac{\sin B + \sin C}{\cos B + \cos C}
+train_1547	\sin (nx)
+train_2187	ax^{2} + 2bx + c = 0
+train_2071	\log_{2} 8 + \log_{3} 9 + \log_{4} 1 6
+train_635	\sqrt{x - y - z + x^{2} + y^{2} + z^{2}}
+train_690	x_{1} + x_{2} = x_{3}
+train_549	x_{1} - x_{2} + y_{1} - y_{2} + z_{1} - z_{2}
+train_1913	\log_2 \frac 1 2 + \log_4 \frac 2 4
+train_1121	x^2 - x - 1 = 0
+train_593	x^{i + 2 j \times k^{3} - 2 \frac{j}{i}}
