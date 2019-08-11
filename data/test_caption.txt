@@ -432,7 +432,7 @@ train_320	n ^ 2    -   n  +  4  1
 train_1435	\tan z =  \frac { \sin  z } { \cos z } 
 train_1584	x _ x ^ x  +  y _ y ^ y  +  z _ z ^ z  -   x  -   y  -   z
 train_1471	\sin  ^ { 2   }  \theta  +  \cos ^ { 2   }  \theta =  1  
-train_2048	b= a ^ 2   + c ^ 2  
+train_2048	b = a ^ 2   + c ^ 2  
 train_1515	[  \frac  2   3   x ^ { \frac  3   2   }  ]  _ 9   ^ 1  
 train_1830	\pi  \int _ c ^ d \{  g (  y  )  \}  ^ 2   d y
 train_302	\lim  _ { x \rightarrow \frac { 1   } { 4   }  }  \frac { 1    -   4   ^ { x  -   \frac { 1   } { 4   }  }  } { 1    -   4   x } 
