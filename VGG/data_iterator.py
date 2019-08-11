@@ -30,7 +30,7 @@ def dataIterator(feature_file,label_file,dictionary,batch_size,batch_Imagesize,m
                 w_list.append(dictionary[w])
             else:
                 print('a word not in the dictionary !! sentence ',uid,'word ', w)
-                #sys.exit()
+                exit()
         targets[uid]=w_list
 
 
